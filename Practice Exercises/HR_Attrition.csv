@@ -1,0 +1,1471 @@
+﻿Attrition Date,Age,Attrition,BusinessTravel,Department,Education,EmployeeCount,EmployeeNumber,Gender,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PerformanceRating
+4/30/2022 12:00:00 AM,41,Yes,Travel_Rarely,Sales,Associates Degree,1,1,Female,Sales Executive,4,Single,5993,19479,8,Yes,3
+,49,No,Travel_Frequently,Research & Development,High School,1,2,Male,Research Scientist,2,Married,5130,24907,1,No,4
+05-03-2022 00:00,37,Yes,Travel_Rarely,Research & Development,Associates Degree,1,4,Male,Laboratory Technician,3,Single,2090,2396,6,Yes,3
+,33,No,Travel_Frequently,Research & Development,Master's Degree,1,5,Female,Research Scientist,3,Married,2909,23159,1,Yes,3
+,27,No,Travel_Rarely,Research & Development,High School,1,7,Male,Laboratory Technician,2,Married,3468,16632,9,No,3
+,32,No,Travel_Frequently,Research & Development,Associates Degree,1,8,Male,Laboratory Technician,4,Single,3068,11864,0,No,3
+,59,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,10,Female,Laboratory Technician,1,Married,2670,9964,4,Yes,4
+,30,No,Travel_Rarely,Research & Development,High School,1,11,Male,Laboratory Technician,3,Divorced,2693,13335,1,No,4
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,12,Male,Manufacturing Director,3,Single,9526,8787,0,No,4
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,13,Male,Healthcare Representative,3,Married,5237,16577,6,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,14,Male,Laboratory Technician,2,Married,2426,16479,0,No,3
+,29,No,Travel_Rarely,Research & Development,Associates Degree,1,15,Female,Laboratory Technician,3,Single,4193,12682,0,Yes,3
+,31,No,Travel_Rarely,Research & Development,High School,1,16,Male,Research Scientist,3,Divorced,2911,15170,1,No,3
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,18,Male,Laboratory Technician,4,Divorced,2661,8758,0,No,3
+07-05-2021 00:00,28,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,19,Male,Laboratory Technician,3,Single,2028,12947,5,Yes,3
+,29,No,Travel_Rarely,Research & Development,Master's Degree,1,20,Female,Manufacturing Director,1,Divorced,9980,10195,1,No,3
+,32,No,Travel_Rarely,Research & Development,Associates Degree,1,21,Male,Research Scientist,2,Divorced,3298,15053,0,Yes,3
+,22,No,Non-Travel,Research & Development,Associates Degree,1,22,Male,Laboratory Technician,4,Divorced,2935,7324,1,Yes,3
+,53,No,Travel_Rarely,Sales,Master's Degree,1,23,Female,Manager,4,Married,15427,22021,2,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,24,Male,Research Scientist,4,Single,3944,4306,5,Yes,3
+,24,No,Non-Travel,Research & Development,Associates Degree,1,26,Female,Manufacturing Director,3,Divorced,4011,8232,0,No,3
+1/16/2022 12:00:00 AM,36,Yes,Travel_Rarely,Sales,Master's Degree,1,27,Male,Sales Representative,1,Single,3407,6986,7,No,4
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,28,Female,Research Director,2,Single,11994,21293,0,No,3
+,21,No,Travel_Rarely,Research & Development,Associates Degree,1,30,Male,Research Scientist,4,Single,1232,19281,1,No,3
+04-01-2022 00:00,34,Yes,Travel_Rarely,Research & Development,High School,1,31,Male,Research Scientist,1,Single,2960,17102,2,No,3
+,53,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,32,Female,Manager,3,Divorced,19094,10735,4,No,3
+10/13/2021 12:00:00 AM,32,Yes,Travel_Frequently,Research & Development,High School,1,33,Female,Research Scientist,1,Single,3919,4681,1,Yes,4
+,42,No,Travel_Rarely,Sales,Master's Degree,1,35,Male,Sales Executive,2,Married,6825,21173,0,No,3
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,36,Female,Healthcare Representative,4,Married,10248,2094,3,No,3
+,46,No,Travel_Rarely,Sales,Master's Degree,1,38,Female,Manager,1,Single,18947,22822,3,No,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,39,Male,Laboratory Technician,4,Single,2496,6670,4,No,3
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,40,Male,Healthcare Representative,4,Married,6465,19121,2,Yes,3
+,30,No,Travel_Rarely,Research & Development,Associates Degree,1,41,Male,Laboratory Technician,3,Single,2206,16117,1,No,3
+2/22/2022 12:00:00 AM,39,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,42,Male,Sales Representative,4,Married,2086,3335,3,No,3
+05-06-2022 00:00,24,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,45,Male,Research Scientist,4,Married,2293,3020,2,Yes,3
+,43,No,Travel_Rarely,Research & Development,Associates Degree,1,46,Female,Research Scientist,3,Divorced,2645,21923,1,No,3
+4/16/2022 12:00:00 AM,50,Yes,Travel_Rarely,Sales,Associates Degree,1,47,Male,Sales Representative,3,Married,2683,3810,1,Yes,3
+,35,No,Travel_Rarely,Sales,Bachelor's Degree,1,49,Female,Sales Representative,4,Married,2014,9687,1,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,51,Female,Research Scientist,1,Married,3419,13072,9,Yes,3
+,33,No,Travel_Frequently,Sales,Bachelor's Degree,1,52,Female,Sales Executive,1,Married,5376,3193,2,No,3
+,35,No,Travel_Rarely,Research & Development,Associates Degree,1,53,Male,Laboratory Technician,4,Divorced,1951,10910,1,No,3
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,54,Female,Laboratory Technician,1,Divorced,2341,19715,1,No,3
+6/22/2021 12:00:00 AM,26,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,55,Male,Laboratory Technician,3,Single,2293,10558,1,No,3
+,27,No,Travel_Frequently,Sales,Bachelor's Degree,1,56,Male,Sales Executive,3,Single,8726,2975,1,No,3
+,30,No,Travel_Frequently,Research & Development,Associates Degree,1,57,Female,Laboratory Technician,4,Single,4011,10781,1,No,4
+11-02-2021 00:00,41,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,58,Female,Research Director,3,Married,19545,16280,1,No,3
+,34,No,Non-Travel,Sales,Master's Degree,1,60,Male,Sales Executive,3,Single,4568,10034,0,No,4
+,37,No,Travel_Rarely,Research & Development,Associates Degree,1,61,Male,Research Scientist,2,Married,3022,10227,4,No,4
+,46,No,Travel_Frequently,Sales,Master's Degree,1,62,Male,Sales Executive,4,Single,5772,20445,4,Yes,4
+,35,No,Travel_Rarely,Research & Development,High School,1,63,Male,Laboratory Technician,4,Married,2269,4892,1,No,3
+4/30/2022 12:00:00 AM,48,Yes,Travel_Rarely,Research & Development,Associates Degree,1,64,Male,Laboratory Technician,3,Single,5381,19294,9,Yes,3
+2/22/2022 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Master's Degree,1,65,Male,Laboratory Technician,3,Single,3441,11179,1,Yes,3
+,44,No,Travel_Rarely,Sales,Doctoral Degree,1,68,Female,Sales Executive,1,Divorced,5454,4009,5,Yes,4
+,35,No,Non-Travel,Research & Development,Associates Degree,1,70,Male,Healthcare Representative,1,Married,9884,8302,2,Yes,3
+,26,No,Travel_Rarely,Sales,Bachelor's Degree,1,72,Female,Sales Executive,4,Married,4157,21436,7,Yes,3
+,33,No,Travel_Frequently,Research & Development,Associates Degree,1,73,Female,Research Director,4,Single,13458,15146,1,Yes,3
+,35,No,Travel_Frequently,Sales,Doctoral Degree,1,74,Male,Sales Executive,1,Married,9069,11031,1,No,4
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,75,Female,Laboratory Technician,1,Married,4014,16002,3,Yes,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,76,Male,Laboratory Technician,4,Divorced,5915,9528,3,No,4
+,37,No,Travel_Rarely,Research & Development,Master's Degree,1,77,Male,Manufacturing Director,3,Divorced,5993,2689,1,No,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,78,Male,Manufacturing Director,4,Married,6162,10877,1,Yes,4
+,38,No,Travel_Frequently,Research & Development,Doctoral Degree,1,79,Female,Laboratory Technician,4,Single,2406,5456,1,No,3
+,50,No,Travel_Rarely,Research & Development,Associates Degree,1,80,Female,Research Director,3,Divorced,18740,16701,5,Yes,3
+,59,No,Travel_Rarely,Sales,Bachelor's Degree,1,81,Female,Sales Executive,1,Single,7637,2354,7,No,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,83,Female,Healthcare Representative,3,Divorced,10096,8202,1,No,3
+,55,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,84,Female,Manager,3,Divorced,14756,19730,2,Yes,3
+,36,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,85,Male,Manufacturing Director,2,Single,6499,22656,1,No,3
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,86,Male,Research Scientist,1,Divorced,9724,18787,2,No,3
+,35,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,88,Male,Research Scientist,1,Married,2194,5868,4,No,3
+03-11-2022 00:00,36,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,90,Male,Research Scientist,3,Married,3388,21777,0,Yes,3
+,59,No,Travel_Frequently,Sales,High School,1,91,Female,Sales Executive,3,Single,5473,24668,7,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,94,Male,Research Scientist,2,Married,2703,4956,0,No,4
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,95,Male,Research Scientist,2,Single,2501,18775,1,No,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,96,Male,Research Scientist,2,Married,6220,7346,1,No,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,97,Female,Laboratory Technician,4,Married,3038,22002,3,No,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,98,Female,Manufacturing Director,4,Single,4424,20682,1,No,4
+,35,No,Travel_Rarely,Sales,Master's Degree,1,100,Male,Sales Executive,1,Single,4312,23016,0,No,3
+,45,No,Travel_Rarely,Research & Development,Master's Degree,1,101,Male,Research Director,1,Married,13245,15067,4,Yes,3
+,37,No,Travel_Rarely,Research & Development,Master's Degree,1,102,Male,Research Director,3,Single,13664,25258,4,No,3
+,46,No,Travel_Rarely,Human Resources,Associates Degree,1,103,Male,Human Resources,2,Divorced,5021,10425,8,Yes,4
+,30,No,Travel_Rarely,Research & Development,High School,1,104,Male,Laboratory Technician,4,Married,5126,15998,1,Yes,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,105,Male,Research Scientist,3,Single,2859,26278,1,No,3
+,55,No,Travel_Rarely,Sales,Associates Degree,1,106,Male,Sales Executive,4,Married,10239,18092,3,No,3
+,38,No,Non-Travel,Research & Development,Bachelor's Degree,1,107,Female,Research Scientist,4,Divorced,5329,15717,7,Yes,3
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,110,Male,Manufacturing Director,2,Married,4325,17736,1,No,3
+,56,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,112,Male,Manufacturing Director,4,Single,7260,21698,4,No,3
+,23,No,Travel_Rarely,Sales,High School,1,113,Male,Sales Representative,1,Divorced,2322,9518,3,No,3
+,51,No,Travel_Rarely,Research & Development,Master's Degree,1,116,Male,Laboratory Technician,4,Married,2075,18725,3,No,4
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,117,Male,Healthcare Representative,4,Married,4152,15830,1,No,3
+03-11-2022 00:00,46,Yes,Travel_Rarely,Sales,Associates Degree,1,118,Male,Sales Executive,4,Single,9619,13596,1,No,3
+,40,No,Travel_Frequently,Research & Development,Master's Degree,1,119,Male,Healthcare Representative,2,Married,13503,14115,1,No,4
+,51,No,Travel_Rarely,Sales,Master's Degree,1,120,Male,Sales Executive,4,Single,5441,8423,0,Yes,4
+,30,No,Travel_Rarely,Sales,Associates Degree,1,121,Female,Sales Executive,2,Divorced,5209,19760,1,Yes,3
+,46,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,124,Male,Healthcare Representative,1,Married,10673,3142,2,Yes,3
+,32,No,Travel_Rarely,Sales,Master's Degree,1,125,Male,Sales Executive,3,Single,5010,24301,1,No,3
+,54,No,Travel_Rarely,Research & Development,Master's Degree,1,126,Female,Research Director,3,Married,13549,24001,9,No,3
+,24,No,Travel_Rarely,Sales,Associates Degree,1,128,Female,Sales Executive,3,Married,4999,17519,0,No,4
+,28,No,Non-Travel,Sales,Bachelor's Degree,1,129,Male,Sales Executive,3,Married,4221,8863,1,No,3
+,58,No,Travel_Rarely,Sales,Master's Degree,1,131,Male,Sales Executive,3,Single,13872,24409,0,No,3
+,44,No,Non-Travel,Research & Development,Bachelor's Degree,1,132,Male,Laboratory Technician,2,Married,2042,25043,4,No,3
+02-12-2022 00:00,37,Yes,Travel_Rarely,Human Resources,Master's Degree,1,133,Male,Human Resources,1,Divorced,2073,23648,4,Yes,4
+,32,No,Travel_Rarely,Research & Development,High School,1,134,Male,Research Scientist,1,Single,2956,15178,1,No,3
+2/20/2022 12:00:00 AM,20,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,137,Female,Laboratory Technician,4,Single,2926,19783,1,Yes,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,138,Female,Research Scientist,3,Single,4809,12482,1,No,3
+,37,No,Non-Travel,Research & Development,Associates Degree,1,139,Male,Healthcare Representative,4,Divorced,5163,15850,5,No,3
+,59,No,Non-Travel,Human Resources,Master's Degree,1,140,Female,Manager,4,Married,18844,21922,9,No,4
+,50,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,141,Female,Research Director,2,Married,18172,9755,3,Yes,3
+3/29/2022 12:00:00 AM,25,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,142,Male,Sales Executive,3,Single,5744,26959,1,Yes,3
+,25,No,Travel_Rarely,Research & Development,High School,1,143,Male,Research Scientist,4,Married,2889,26897,1,No,3
+,22,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,144,Female,Laboratory Technician,4,Single,2871,23785,1,No,3
+,51,No,Travel_Frequently,Research & Development,Master's Degree,1,145,Female,Healthcare Representative,1,Single,7484,25796,3,No,4
+02-07-2022 00:00,34,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,147,Male,Laboratory Technician,3,Single,6074,22887,1,Yes,4
+,54,No,Non-Travel,Human Resources,Bachelor's Degree,1,148,Female,Manager,4,Single,17328,13871,2,Yes,3
+,24,No,Travel_Rarely,Research & Development,High School,1,150,Male,Laboratory Technician,3,Married,2774,13257,0,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,151,Female,Research Scientist,2,Divorced,4505,15000,6,No,3
+,37,No,Travel_Rarely,Sales,Bachelor's Degree,1,152,Male,Sales Executive,4,Single,7428,14506,2,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,153,Female,Manager,1,Single,11631,5615,2,No,3
+,36,No,Travel_Frequently,Sales,Associates Degree,1,154,Female,Sales Executive,4,Married,9738,22952,0,No,3
+,36,No,Travel_Rarely,Research & Development,Associates Degree,1,155,Female,Laboratory Technician,4,Divorced,2835,2561,5,No,4
+,43,No,Travel_Frequently,Sales,Associates Degree,1,158,Male,Manager,4,Married,16959,19494,1,Yes,3
+,30,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,159,Male,Research Scientist,3,Divorced,2613,22310,1,No,4
+,33,No,Non-Travel,Sales,Associates Degree,1,160,Male,Sales Executive,2,Married,6146,15480,0,No,3
+11-12-2021 00:00,56,Yes,Travel_Rarely,Research & Development,Master's Degree,1,161,Female,Research Scientist,2,Married,4963,4510,9,Yes,3
+,51,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,162,Male,Research Director,3,Single,19537,6462,7,No,3
+2/24/2022 12:00:00 AM,31,Yes,Travel_Rarely,Sales,Master's Degree,1,163,Male,Sales Executive,3,Married,6172,20739,4,Yes,3
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,164,Female,Research Scientist,2,Married,2368,23300,1,No,3
+12-03-2021 00:00,58,Yes,Travel_Rarely,Research & Development,Master's Degree,1,165,Female,Healthcare Representative,4,Married,10312,3465,1,No,3
+10/27/2021 12:00:00 AM,19,Yes,Travel_Rarely,Sales,High School,1,167,Male,Sales Representative,3,Single,1675,26820,1,Yes,3
+,22,No,Travel_Rarely,Research & Development,High School,1,169,Male,Laboratory Technician,4,Married,2523,19299,0,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,170,Female,Manufacturing Director,1,Married,6567,5549,1,No,3
+,43,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,171,Female,Research Scientist,3,Single,4739,16090,4,No,3
+,50,No,Travel_Frequently,Sales,Bachelor's Degree,1,174,Female,Sales Executive,4,Single,9208,6645,4,No,3
+8/26/2021 12:00:00 AM,31,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,175,Female,Sales Executive,3,Married,4559,24788,3,Yes,3
+,41,No,Travel_Rarely,Sales,High School,1,176,Male,Sales Executive,3,Divorced,8189,21196,3,Yes,3
+,26,No,Travel_Rarely,Human Resources,High School,1,177,Female,Human Resources,3,Married,2942,8916,1,No,4
+,36,No,Travel_Rarely,Research & Development,Associates Degree,1,178,Male,Manufacturing Director,2,Divorced,4941,2819,6,No,4
+1/25/2022 12:00:00 AM,51,Yes,Travel_Frequently,Research & Development,Master's Degree,1,179,Male,Manufacturing Director,4,Single,10650,25150,2,No,3
+,39,No,Travel_Rarely,Sales,Master's Degree,1,182,Female,Sales Executive,3,Married,5902,14590,4,No,3
+,25,No,Travel_Rarely,Sales,Bachelor's Degree,1,183,Male,Sales Executive,3,Married,8639,24835,2,No,3
+,30,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,184,Male,Human Resources,4,Married,6347,13982,0,Yes,3
+03-11-2022 00:00,32,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,190,Female,Laboratory Technician,1,Single,4200,10224,7,No,4
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,192,Male,Research Scientist,4,Single,3452,9752,5,No,3
+,38,No,Travel_Rarely,Research & Development,Doctoral Degree,1,193,Female,Research Scientist,3,Single,4317,2302,3,Yes,4
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,194,Female,Research Scientist,3,Single,2632,23910,1,No,3
+,32,No,Travel_Frequently,Sales,Associates Degree,1,195,Male,Sales Executive,4,Divorced,4668,22812,0,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,197,Female,Research Scientist,1,Divorced,3204,10415,5,No,3
+,30,No,Travel_Rarely,Research & Development,High School,1,198,Male,Laboratory Technician,4,Single,2720,11162,0,No,3
+,41,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,199,Male,Manager,1,Divorced,17181,12888,4,No,3
+,41,No,Travel_Rarely,Research & Development,Master's Degree,1,200,Male,Laboratory Technician,1,Married,2238,6961,2,No,4
+,19,No,Travel_Rarely,Research & Development,High School,1,201,Female,Laboratory Technician,2,Single,1483,16102,1,No,3
+,40,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,202,Female,Research Scientist,2,Divorced,5605,8504,1,No,3
+,35,No,Travel_Rarely,Sales,Doctoral Degree,1,204,Male,Sales Executive,2,Married,7295,11439,1,No,3
+,53,No,Travel_Rarely,Sales,Associates Degree,1,205,Male,Sales Representative,3,Married,2306,16047,2,Yes,4
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,206,Male,Laboratory Technician,2,Divorced,2348,10901,8,No,3
+,32,No,Travel_Frequently,Sales,Bachelor's Degree,1,207,Female,Sales Executive,4,Single,8998,15589,1,No,3
+,29,No,Non-Travel,Research & Development,High School,1,208,Male,Manufacturing Director,3,Married,4319,26283,1,No,3
+,51,No,Travel_Rarely,Research & Development,Master's Degree,1,211,Male,Manufacturing Director,3,Married,6132,13983,2,No,3
+,58,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,214,Female,Research Scientist,2,Married,3346,11873,4,Yes,4
+,40,No,Travel_Rarely,Sales,Master's Degree,1,215,Male,Sales Executive,4,Married,10855,8552,7,No,3
+,34,No,Travel_Frequently,Sales,Master's Degree,1,216,Female,Sales Representative,3,Married,2231,11314,6,No,3
+,22,No,Travel_Rarely,Research & Development,High School,1,217,Male,Research Scientist,4,Married,2323,11992,1,No,4
+,27,No,Non-Travel,Research & Development,Bachelor's Degree,1,218,Male,Research Scientist,2,Divorced,2024,5970,6,No,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,221,Male,Research Scientist,4,Married,2713,6672,1,No,3
+,57,No,Travel_Rarely,Research & Development,Associates Degree,1,223,Male,Healthcare Representative,4,Divorced,9439,23402,3,Yes,3
+,27,No,Non-Travel,Research & Development,Bachelor's Degree,1,224,Male,Research Scientist,3,Divorced,2566,25326,1,Yes,3
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,226,Female,Manager,2,Single,19926,17053,3,No,3
+,41,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,227,Male,Research Scientist,3,Divorced,2451,4609,4,No,3
+,30,No,Travel_Rarely,Sales,Bachelor's Degree,1,228,Female,Sales Executive,4,Married,9419,8053,2,No,3
+,38,No,Travel_Rarely,Sales,Master's Degree,1,230,Female,Sales Executive,4,Single,8686,12930,4,No,4
+,32,No,Travel_Rarely,Research & Development,Doctoral Degree,1,231,Male,Research Scientist,3,Single,3038,12430,3,No,4
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,233,Male,Research Scientist,2,Married,3058,13364,0,Yes,3
+4/23/2022 12:00:00 AM,19,Yes,Travel_Frequently,Sales,High School,1,235,Female,Sales Representative,1,Single,2325,20989,0,No,4
+,36,No,Travel_Frequently,Research & Development,Associates Degree,1,238,Male,Laboratory Technician,2,Single,2088,15062,4,No,3
+,30,No,Non-Travel,Research & Development,Bachelor's Degree,1,239,Male,Laboratory Technician,1,Divorced,3072,11012,1,No,3
+,45,No,Travel_Rarely,Sales,Associates Degree,1,240,Female,Sales Executive,1,Divorced,5006,6319,4,Yes,3
+,56,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,241,Female,Research Scientist,1,Divorced,4257,13939,4,Yes,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,242,Male,Research Scientist,4,Single,2500,10515,0,No,3
+4/17/2022 12:00:00 AM,19,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,243,Male,Laboratory Technician,4,Single,1102,9241,1,No,4
+,46,No,Travel_Rarely,Sales,Associates Degree,1,244,Female,Sales Executive,1,Divorced,10453,2137,1,No,4
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,245,Female,Laboratory Technician,4,Single,2288,6319,1,No,3
+,31,No,Travel_Rarely,Research & Development,High School,1,246,Female,Research Scientist,4,Married,3929,6984,8,Yes,4
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,247,Female,Research Scientist,2,Single,2311,5711,2,No,3
+11/14/2021 12:00:00 AM,41,Yes,Travel_Rarely,Sales,Associates Degree,1,248,Female,Sales Representative,2,Single,3140,21728,1,Yes,4
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,249,Male,Laboratory Technician,3,Married,3690,3425,2,No,3
+,53,No,Travel_Rarely,Research & Development,Associates Degree,1,250,Female,Manufacturing Director,1,Divorced,4450,26250,1,No,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,252,Female,Research Scientist,2,Married,2756,4673,1,No,3
+,40,No,Travel_Rarely,Research & Development,High School,1,253,Female,Manager,3,Married,19033,6499,1,No,3
+,55,No,Travel_Rarely,Research & Development,Master's Degree,1,254,Male,Research Director,2,Single,18722,13339,8,No,3
+,34,No,Travel_Frequently,Research & Development,High School,1,256,Male,Manufacturing Director,3,Married,9547,14074,1,No,3
+,51,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,258,Female,Healthcare Representative,2,Single,13734,7192,3,No,3
+,52,No,Travel_Rarely,Research & Development,Master's Degree,1,259,Male,Manager,3,Married,19999,5678,0,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,260,Female,Research Scientist,2,Single,2279,11781,1,No,3
+7/18/2021 12:00:00 AM,35,Yes,Travel_Rarely,Research & Development,Associates Degree,1,261,Male,Manufacturing Director,3,Married,5916,15497,3,Yes,3
+,43,No,Non-Travel,Research & Development,Bachelor's Degree,1,262,Male,Research Scientist,4,Divorced,2089,5228,4,No,3
+,45,No,Non-Travel,Research & Development,Associates Degree,1,264,Male,Manager,4,Married,16792,20462,9,No,4
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,267,Male,Research Scientist,1,Married,3564,22977,1,Yes,3
+,35,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,269,Female,Laboratory Technician,2,Single,4425,15986,5,No,3
+,42,No,Non-Travel,Research & Development,Associates Degree,1,270,Female,Manufacturing Director,3,Divorced,5265,16439,2,No,3
+,38,No,Travel_Rarely,Research & Development,Master's Degree,1,271,Male,Manufacturing Director,3,Married,6553,7259,9,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,273,Male,Manufacturing Director,4,Married,6261,4185,3,No,3
+,27,No,Travel_Frequently,Research & Development,High School,1,274,Male,Manufacturing Director,1,Married,4298,9679,5,No,3
+,49,No,Non-Travel,Research & Development,Master's Degree,1,275,Male,Manufacturing Director,4,Divorced,6804,23793,1,Yes,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,277,Male,Research Scientist,3,Divorced,3815,5972,1,Yes,3
+,40,No,Travel_Rarely,Research & Development,Associates Degree,1,281,Male,Laboratory Technician,4,Married,2741,16523,8,Yes,3
+10/22/2021 12:00:00 AM,38,Yes,Travel_Rarely,Research & Development,High School,1,282,Male,Healthcare Representative,1,Married,6673,11354,7,Yes,3
+09-12-2021 00:00,29,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,283,Female,Sales Executive,4,Married,7639,24525,1,No,4
+,22,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,284,Male,Research Scientist,2,Divorced,2328,12392,1,Yes,3
+,36,No,Travel_Frequently,Research & Development,High School,1,286,Female,Laboratory Technician,4,Single,2153,7703,1,No,3
+,40,No,Non-Travel,Research & Development,Doctoral Degree,1,287,Male,Healthcare Representative,4,Married,4876,14242,9,No,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,288,Male,Healthcare Representative,1,Divorced,9396,12368,7,No,3
+4/15/2022 12:00:00 AM,32,Yes,Travel_Rarely,Sales,Master's Degree,1,291,Male,Sales Executive,4,Married,10400,25812,1,No,3
+,30,No,Non-Travel,Research & Development,High School,1,292,Male,Manufacturing Director,3,Single,8474,20925,1,No,4
+,27,No,Travel_Frequently,Sales,Bachelor's Degree,1,293,Female,Sales Executive,3,Single,9981,12916,1,No,3
+,51,No,Travel_Rarely,Research & Development,Master's Degree,1,296,Male,Research Director,2,Married,12490,15736,5,No,3
+3/26/2022 12:00:00 AM,30,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,297,Female,Research Scientist,1,Single,2657,8556,5,Yes,3
+,41,No,Travel_Rarely,Sales,Bachelor's Degree,1,298,Female,Manager,4,Single,13591,14674,3,Yes,3
+9/17/2021 12:00:00 AM,30,Yes,Travel_Frequently,Sales,Master's Degree,1,299,Female,Sales Executive,1,Single,6696,22967,5,No,3
+4/27/2022 12:00:00 AM,29,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,300,Male,Research Scientist,3,Single,2058,19757,0,No,3
+,45,No,Non-Travel,Sales,Bachelor's Degree,1,302,Female,Sales Executive,4,Single,8865,16840,6,No,3
+,54,No,Travel_Rarely,Sales,Bachelor's Degree,1,303,Female,Sales Executive,1,Married,5940,17011,2,No,3
+,36,No,Travel_Rarely,Research & Development,Associates Degree,1,304,Male,Laboratory Technician,2,Single,5914,9945,8,No,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,305,Female,Research Scientist,2,Married,2622,13248,6,No,4
+,37,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,306,Male,Research Director,4,Divorced,12185,10056,1,Yes,3
+,38,No,Travel_Rarely,Sales,Bachelor's Degree,1,307,Male,Sales Executive,3,Divorced,10609,9647,0,No,3
+,31,No,Non-Travel,Research & Development,Master's Degree,1,308,Male,Manufacturing Director,3,Married,4345,4381,0,No,3
+,59,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,309,Male,Research Scientist,4,Married,2177,8456,3,No,3
+,37,No,Travel_Frequently,Sales,Master's Degree,1,311,Male,Sales Representative,4,Divorced,2793,2539,4,No,3
+,29,No,Travel_Frequently,Sales,High School,1,312,Female,Sales Executive,4,Married,7918,6599,1,No,3
+,35,No,Travel_Frequently,Sales,Bachelor's Degree,1,314,Female,Sales Executive,3,Single,8789,9096,1,No,3
+01-07-2022 00:00,29,Yes,Travel_Rarely,Research & Development,High School,1,315,Male,Research Scientist,4,Single,2389,14961,1,Yes,3
+,52,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,316,Female,Laboratory Technician,4,Single,3212,3300,7,No,3
+,42,No,Travel_Rarely,Research & Development,Associates Degree,1,319,Male,Manager,4,Married,19232,4933,1,No,3
+,59,No,Travel_Rarely,Human Resources,Associates Degree,1,321,Male,Human Resources,3,Married,2267,25657,8,No,3
+,50,No,Travel_Rarely,Sales,Master's Degree,1,323,Female,Manager,4,Divorced,19517,24118,3,No,3
+02-04-2022 00:00,33,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,325,Male,Laboratory Technician,4,Married,2436,22149,5,Yes,3
+,43,No,Travel_Rarely,Sales,Bachelor's Degree,1,327,Female,Manager,4,Married,16064,7744,5,Yes,4
+4/17/2022 12:00:00 AM,33,Yes,Travel_Rarely,Research & Development,Associates Degree,1,328,Female,Laboratory Technician,1,Married,2707,21509,7,No,4
+,52,No,Non-Travel,Sales,Master's Degree,1,329,Male,Manager,3,Single,19068,21030,1,Yes,3
+,32,No,Travel_Rarely,Sales,Associates Degree,1,330,Female,Sales Representative,2,Married,3931,20990,2,No,3
+4/30/2022 12:00:00 AM,32,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,331,Male,Laboratory Technician,3,Single,3730,9571,0,Yes,3
+,39,No,Travel_Rarely,Research & Development,Master's Degree,1,332,Female,Laboratory Technician,3,Divorced,2232,15417,7,No,3
+,32,No,Non-Travel,Sales,Master's Degree,1,333,Male,Sales Executive,4,Married,4465,12069,0,No,3
+,41,No,Travel_Rarely,Research & Development,Associates Degree,1,334,Male,Research Scientist,1,Divorced,3072,19877,2,No,3
+,40,No,Travel_Rarely,Research & Development,Associates Degree,1,335,Male,Research Scientist,4,Divorced,3319,24447,1,No,3
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,336,Male,Manager,4,Married,19202,15970,0,No,3
+,31,No,Travel_Frequently,Research & Development,Master's Degree,1,337,Male,Research Director,3,Divorced,13675,13523,9,No,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,338,Female,Research Scientist,4,Married,2911,14776,1,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,339,Male,Manufacturing Director,1,Married,5957,23687,6,No,3
+,37,No,Travel_Rarely,Research & Development,Associates Degree,1,340,Female,Research Scientist,1,Married,3920,18697,2,No,3
+,45,No,Travel_Frequently,Research & Development,Master's Degree,1,341,Male,Manufacturing Director,3,Married,6434,5118,4,No,3
+2/28/2022 12:00:00 AM,37,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,342,Male,Manufacturing Director,3,Divorced,10048,22573,6,No,3
+,39,No,Travel_Frequently,Research & Development,Master's Degree,1,343,Female,Healthcare Representative,3,Single,10938,6420,0,No,4
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,346,Male,Research Scientist,4,Single,2340,22673,1,No,3
+,42,No,Travel_Rarely,Research & Development,Associates Degree,1,347,Female,Research Scientist,1,Single,6545,23016,3,Yes,3
+,29,No,Travel_Rarely,Sales,Associates Degree,1,349,Male,Sales Executive,4,Divorced,6931,10732,2,No,3
+,25,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,350,Female,Manufacturing Director,3,Married,4898,7505,0,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,351,Female,Laboratory Technician,1,Divorced,2593,8007,0,Yes,3
+,40,No,Travel_Rarely,Research & Development,Associates Degree,1,352,Male,Research Director,3,Divorced,19436,5949,0,No,3
+,51,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,353,Male,Research Scientist,4,Married,2723,23231,1,No,3
+10/18/2021 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Associates Degree,1,355,Male,Laboratory Technician,2,Single,3479,11652,0,No,3
+,32,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,359,Male,Laboratory Technician,2,Married,2794,26062,1,No,4
+,38,No,Non-Travel,Sales,Associates Degree,1,361,Male,Sales Executive,4,Married,5249,19682,3,No,3
+,32,No,Travel_Rarely,Research & Development,High School,1,362,Male,Laboratory Technician,1,Single,2176,19737,4,No,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,363,Female,Manager,2,Married,16872,14977,3,Yes,3
+4/17/2022 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Master's Degree,1,364,Male,Laboratory Technician,3,Single,3485,14935,2,No,3
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,366,Male,Sales Executive,2,Married,6644,3687,2,No,3
+,31,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,367,Male,Healthcare Representative,4,Married,5582,14408,0,No,4
+,25,No,Non-Travel,Research & Development,Associates Degree,1,369,Male,Healthcare Representative,1,Divorced,4000,18384,1,No,3
+,45,No,Travel_Rarely,Research & Development,Associates Degree,1,372,Male,Healthcare Representative,4,Married,13496,7501,0,Yes,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,373,Male,Laboratory Technician,4,Married,3210,20251,0,No,3
+,55,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,374,Male,Manager,1,Single,19045,18938,0,Yes,3
+11/14/2021 12:00:00 AM,47,Yes,Non-Travel,Research & Development,Master's Degree,1,376,Male,Manager,2,Married,11849,10268,1,Yes,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,377,Male,Research Scientist,4,Married,2070,2613,1,No,4
+,37,No,Travel_Rarely,Sales,Master's Degree,1,378,Male,Sales Executive,4,Married,6502,22825,4,No,3
+,21,No,Travel_Rarely,Research & Development,Associates Degree,1,379,Male,Research Scientist,3,Single,3230,10531,1,No,3
+,37,No,Non-Travel,Research & Development,Master's Degree,1,380,Female,Research Director,4,Divorced,13603,11677,2,Yes,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,381,Female,Manager,2,Divorced,11996,19100,7,No,3
+,38,No,Travel_Rarely,Sales,Associates Degree,1,382,Female,Sales Executive,1,Divorced,5605,19191,1,Yes,4
+,26,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,384,Female,Manufacturing Director,2,Divorced,6397,26767,1,No,4
+,50,No,Travel_Rarely,Research & Development,High School,1,385,Male,Research Director,2,Divorced,19144,15815,3,No,3
+,53,No,Travel_Rarely,Research & Development,Master's Degree,1,386,Male,Research Director,3,Married,17584,21016,3,Yes,3
+,42,No,Travel_Rarely,Sales,High School,1,387,Male,Sales Executive,3,Married,4907,24532,1,No,4
+,29,No,Travel_Frequently,Sales,Associates Degree,1,388,Male,Sales Executive,4,Single,4554,20260,1,No,3
+,55,No,Travel_Rarely,Research & Development,Associates Degree,1,389,Male,Laboratory Technician,4,Married,5415,15972,3,Yes,3
+,26,No,Travel_Frequently,Research & Development,Associates Degree,1,390,Male,Healthcare Representative,1,Married,4741,22722,1,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,391,Female,Research Scientist,4,Single,2115,15881,1,No,3
+07-01-2021 00:00,44,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,392,Male,Laboratory Technician,3,Divorced,3161,19920,3,Yes,4
+,38,No,Travel_Rarely,Research & Development,Master's Degree,1,393,Male,Healthcare Representative,4,Divorced,5745,18899,9,No,3
+1/21/2022 12:00:00 AM,26,Yes,Travel_Rarely,Research & Development,Master's Degree,1,394,Male,Laboratory Technician,2,Divorced,2373,14180,2,Yes,3
+,28,No,Travel_Rarely,Research & Development,Associates Degree,1,395,Female,Research Scientist,4,Single,3310,4488,1,No,4
+,49,No,Travel_Frequently,Research & Development,Master's Degree,1,396,Female,Research Director,1,Single,18665,25594,9,Yes,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,397,Male,Research Scientist,2,Single,4485,26285,4,No,3
+,31,No,Travel_Frequently,Sales,Bachelor's Degree,1,399,Female,Sales Representative,2,Divorced,2789,3909,1,No,3
+04-07-2022 00:00,26,Yes,Travel_Rarely,Sales,Master's Degree,1,401,Male,Sales Executive,4,Single,5828,8450,1,Yes,3
+,37,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,403,Male,Research Scientist,4,Married,2326,11411,1,Yes,3
+,42,No,Travel_Frequently,Sales,Bachelor's Degree,1,404,Female,Sales Executive,2,Married,13525,14864,5,No,3
+04-04-2022 00:00,18,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,405,Male,Laboratory Technician,3,Single,1420,25233,1,No,3
+,35,No,Travel_Rarely,Sales,Bachelor's Degree,1,406,Male,Sales Executive,2,Married,8020,5100,0,No,3
+,36,No,Travel_Frequently,Research & Development,Master's Degree,1,407,Male,Laboratory Technician,4,Married,3688,7122,4,No,3
+,51,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,408,Male,Manufacturing Director,2,Divorced,5482,16321,5,No,3
+,41,No,Travel_Rarely,Sales,Master's Degree,1,410,Male,Manager,2,Single,16015,15896,1,No,3
+,18,No,Travel_Rarely,Sales,Bachelor's Degree,1,411,Female,Sales Representative,3,Single,1200,9724,1,No,3
+,28,No,Travel_Rarely,Research & Development,Associates Degree,1,412,Male,Healthcare Representative,1,Single,5661,4824,0,No,3
+,31,No,Travel_Rarely,Sales,Bachelor's Degree,1,416,Male,Sales Executive,4,Married,6929,12241,4,No,3
+,39,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,417,Male,Healthcare Representative,4,Divorced,9613,10942,0,No,3
+,36,No,Non-Travel,Research & Development,Master's Degree,1,419,Female,Laboratory Technician,2,Married,5674,6927,7,No,3
+,32,No,Travel_Rarely,Sales,Bachelor's Degree,1,420,Male,Sales Executive,3,Married,5484,16985,1,No,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,421,Female,Research Director,2,Married,12061,26707,3,No,3
+,58,No,Non-Travel,Research & Development,Master's Degree,1,422,Male,Healthcare Representative,3,Divorced,5660,17056,2,Yes,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,423,Male,Research Scientist,4,Married,4821,10077,0,Yes,3
+,31,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,424,Male,Human Resources,1,Married,6410,17822,3,No,3
+,45,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,425,Male,Laboratory Technician,1,Divorced,5210,20308,1,No,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,426,Male,Research Scientist,4,Divorced,2695,7747,0,Yes,3
+,33,No,Travel_Frequently,Research & Development,Master's Degree,1,428,Female,Manager,2,Married,11878,23364,6,No,3
+,39,No,Travel_Rarely,Research & Development,High School,1,429,Male,Manager,1,Married,17068,5355,1,Yes,3
+,43,No,Travel_Frequently,Research & Development,Master's Degree,1,430,Female,Laboratory Technician,4,Single,2455,10675,0,No,3
+,49,No,Travel_Rarely,Research & Development,Associates Degree,1,431,Female,Healthcare Representative,3,Single,13964,17810,7,Yes,3
+3/18/2022 12:00:00 AM,52,Yes,Travel_Rarely,Research & Development,Master's Degree,1,433,Male,Research Scientist,2,Married,4941,17747,2,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,434,Female,Research Scientist,2,Single,2478,20938,1,Yes,3
+,32,No,Travel_Rarely,Sales,Associates Degree,1,436,Female,Sales Executive,2,Married,5228,24624,1,Yes,3
+,27,No,Travel_Rarely,Sales,Bachelor's Degree,1,437,Male,Sales Executive,3,Single,4478,5242,1,Yes,3
+,31,No,Travel_Rarely,Sales,Bachelor's Degree,1,438,Male,Sales Executive,4,Divorced,7547,7143,4,No,3
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,439,Female,Research Scientist,4,Single,5055,10557,7,No,3
+4/29/2022 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Master's Degree,1,440,Male,Research Scientist,4,Married,3464,24737,5,Yes,3
+,30,No,Travel_Rarely,Research & Development,Associates Degree,1,441,Female,Research Scientist,4,Married,5775,11934,1,No,3
+,31,No,Travel_Frequently,Research & Development,Associates Degree,1,442,Female,Manufacturing Director,3,Married,8943,14034,1,No,4
+,39,No,Travel_Frequently,Research & Development,Associates Degree,1,444,Male,Manager,4,Married,19272,21141,1,No,3
+4/22/2022 12:00:00 AM,39,Yes,Travel_Rarely,Sales,Associates Degree,1,445,Female,Sales Executive,3,Married,5238,17778,4,Yes,3
+,33,No,Travel_Frequently,Sales,Bachelor's Degree,1,446,Male,Sales Executive,4,Single,4682,4317,3,No,3
+,47,No,Travel_Rarely,Research & Development,Doctoral Degree,1,447,Male,Research Director,3,Married,18300,16375,4,No,3
+,43,No,Travel_Frequently,Research & Development,Master's Degree,1,448,Female,Laboratory Technician,3,Divorced,5257,6227,1,No,3
+,27,No,Non-Travel,Sales,High School,1,449,Male,Sales Executive,2,Married,6349,22107,0,Yes,3
+,54,No,Travel_Frequently,Research & Development,Master's Degree,1,450,Female,Research Scientist,3,Single,4869,16885,3,No,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,451,Female,Healthcare Representative,1,Married,9985,9262,8,No,3
+,45,No,Travel_Rarely,Research & Development,Master's Degree,1,452,Male,Research Scientist,4,Married,3697,9278,9,No,3
+,40,No,Travel_Rarely,Sales,Associates Degree,1,453,Male,Sales Executive,4,Married,7457,13273,2,Yes,4
+04-03-2022 00:00,29,Yes,Travel_Rarely,Research & Development,Master's Degree,1,454,Male,Laboratory Technician,1,Married,2119,4759,1,Yes,3
+,29,No,Travel_Rarely,Research & Development,Doctoral Degree,1,455,Male,Laboratory Technician,4,Single,3983,7621,0,No,3
+,30,No,Travel_Rarely,Sales,Bachelor's Degree,1,456,Female,Sales Executive,3,Divorced,6118,5431,1,No,3
+,27,No,Travel_Rarely,Sales,Master's Degree,1,458,Female,Sales Executive,2,Married,6214,3415,1,No,3
+,37,No,Travel_Rarely,Research & Development,Associates Degree,1,460,Male,Manufacturing Director,4,Divorced,6347,23177,7,No,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,461,Male,Research Director,4,Divorced,11510,15682,0,Yes,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,462,Female,Manufacturing Director,4,Single,7143,25713,1,Yes,3
+,29,No,Travel_Rarely,Sales,High School,1,463,Female,Sales Executive,2,Divorced,8268,11866,1,Yes,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,464,Male,Manufacturing Director,2,Single,8095,18264,0,No,3
+,23,No,Travel_Rarely,Research & Development,High School,1,465,Male,Research Scientist,4,Divorced,2904,16092,1,No,3
+,41,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,466,Male,Manufacturing Director,2,Single,6032,10110,6,Yes,3
+,47,No,Travel_Frequently,Sales,High School,1,467,Male,Sales Representative,3,Single,2976,25751,3,No,3
+,42,No,Travel_Rarely,Research & Development,Doctoral Degree,1,468,Female,Research Director,4,Single,15992,15901,2,No,3
+,29,No,Non-Travel,Sales,Bachelor's Degree,1,469,Male,Sales Executive,3,Married,4649,16928,1,No,3
+,42,No,Travel_Rarely,Human Resources,High School,1,470,Male,Human Resources,3,Divorced,2696,24017,0,Yes,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,471,Female,Laboratory Technician,2,Married,2370,3956,1,No,3
+,48,No,Travel_Rarely,Sales,High School,1,473,Female,Manager,3,Married,12504,23978,3,No,4
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,474,Male,Research Scientist,1,Divorced,5974,17001,4,Yes,3
+,30,No,Non-Travel,Sales,Associates Degree,1,475,Female,Sales Executive,3,Married,4736,6069,7,Yes,3
+,26,No,Travel_Rarely,Sales,Bachelor's Degree,1,476,Male,Sales Executive,3,Married,5296,20156,1,No,3
+,42,No,Travel_Rarely,Research & Development,Master's Degree,1,477,Male,Healthcare Representative,4,Single,6781,17078,3,No,4
+4/23/2022 12:00:00 AM,21,Yes,Travel_Frequently,Sales,High School,1,478,Female,Sales Representative,2,Single,2174,9150,1,Yes,3
+,36,No,Non-Travel,Sales,Doctoral Degree,1,479,Female,Sales Executive,4,Single,6653,15276,4,No,3
+,36,No,Travel_Frequently,Sales,Master's Degree,1,481,Male,Sales Executive,4,Married,9699,7246,4,No,3
+,57,No,Travel_Rarely,Research & Development,Master's Degree,1,482,Male,Healthcare Representative,3,Married,6755,2967,2,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,483,Female,Laboratory Technician,3,Married,2213,22495,3,Yes,3
+,21,No,Non-Travel,Sales,Associates Degree,1,484,Male,Sales Representative,4,Single,2610,2851,1,No,4
+3/29/2022 12:00:00 AM,33,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,485,Female,Sales Representative,3,Single,2851,9150,1,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,486,Female,Laboratory Technician,1,Married,3452,17663,6,No,4
+,46,No,Non-Travel,Research & Development,Master's Degree,1,487,Female,Manufacturing Director,3,Married,5258,16044,2,No,3
+04-03-2022 00:00,41,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,488,Male,Sales Executive,2,Single,9355,9558,1,No,3
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,491,Male,Healthcare Representative,4,Single,10496,2755,6,No,3
+10/27/2021 12:00:00 AM,40,Yes,Travel_Rarely,Sales,Associates Degree,1,492,Male,Sales Executive,3,Married,6380,6110,2,Yes,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,493,Male,Research Scientist,2,Single,2657,7551,0,Yes,3
+12-08-2021 00:00,21,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,494,Female,Sales Representative,2,Single,2716,25422,1,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,495,Male,Research Scientist,4,Single,2201,18168,9,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,496,Male,Healthcare Representative,2,Single,6540,19394,9,No,3
+,27,No,Travel_Rarely,Research & Development,Associates Degree,1,497,Male,Laboratory Technician,2,Divorced,3816,17881,1,No,3
+,28,No,Travel_Rarely,Sales,Master's Degree,1,498,Male,Sales Executive,4,Single,5253,20750,1,No,3
+,49,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,499,Male,Healthcare Representative,3,Single,10965,12066,8,No,4
+,51,No,Travel_Rarely,Sales,Associates Degree,1,500,Female,Sales Executive,4,Married,4936,14862,4,No,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,501,Female,Research Scientist,3,Married,2543,11868,4,No,3
+11/26/2021 12:00:00 AM,34,Yes,Non-Travel,Sales,Bachelor's Degree,1,502,Male,Sales Executive,4,Single,5304,4652,8,Yes,3
+,55,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,505,Female,Manager,4,Single,16659,23258,2,Yes,3
+,24,No,Travel_Rarely,Sales,Master's Degree,1,507,Female,Sales Executive,3,Divorced,4260,5915,1,Yes,3
+,30,No,Travel_Rarely,Sales,High School,1,508,Male,Sales Representative,2,Married,2476,17434,1,No,3
+3/22/2022 12:00:00 AM,26,Yes,Travel_Frequently,Research & Development,High School,1,510,Male,Research Scientist,1,Single,3102,6582,0,No,4
+,22,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,511,Female,Research Scientist,2,Married,2244,24440,1,No,3
+,36,No,Travel_Rarely,Sales,Associates Degree,1,513,Male,Sales Executive,3,Married,7596,3809,1,No,3
+03-06-2022 00:00,30,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,514,Male,Research Scientist,4,Single,2285,3427,9,Yes,4
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,515,Female,Laboratory Technician,1,Divorced,3034,26914,1,No,3
+,40,No,Travel_Rarely,Sales,Associates Degree,1,516,Female,Sales Executive,2,Divorced,5715,22553,7,No,3
+,42,No,Travel_Rarely,Research & Development,Master's Degree,1,517,Female,Laboratory Technician,1,Divorced,2576,20490,3,No,3
+,37,No,Travel_Rarely,Research & Development,Master's Degree,1,518,Male,Manufacturing Director,2,Single,4197,21123,2,Yes,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,520,Male,Research Director,2,Divorced,14336,4345,1,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,521,Female,Laboratory Technician,3,Married,3448,13436,6,No,4
+,54,No,Travel_Rarely,Research & Development,Associates Degree,1,522,Male,Research Director,1,Married,19406,8509,4,No,3
+,34,No,Non-Travel,Sales,Master's Degree,1,523,Female,Sales Executive,3,Married,6538,12740,9,No,3
+,31,No,Travel_Rarely,Research & Development,Associates Degree,1,524,Female,Manufacturing Director,1,Married,4306,4156,1,No,3
+,43,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,525,Male,Laboratory Technician,4,Married,2258,15238,7,No,4
+,43,No,Travel_Rarely,Research & Development,Master's Degree,1,526,Female,Healthcare Representative,3,Divorced,4522,2227,4,Yes,3
+,25,No,Travel_Rarely,Sales,Associates Degree,1,527,Female,Sales Executive,4,Single,4487,12090,1,Yes,3
+,37,No,Non-Travel,Research & Development,Doctoral Degree,1,529,Female,Research Scientist,3,Married,4449,23866,3,Yes,3
+,31,No,Travel_Rarely,Research & Development,Associates Degree,1,530,Male,Laboratory Technician,1,Married,2218,16193,1,No,3
+,39,No,Travel_Frequently,Research & Development,High School,1,531,Male,Manager,3,Divorced,19197,8213,1,Yes,3
+,56,No,Travel_Frequently,Sales,Bachelor's Degree,1,532,Female,Sales Executive,1,Married,13212,18256,9,No,3
+,30,No,Travel_Rarely,Sales,Bachelor's Degree,1,533,Female,Sales Executive,3,Single,6577,19558,0,No,3
+,41,No,Travel_Rarely,Sales,Bachelor's Degree,1,534,Male,Sales Executive,1,Married,8392,19566,1,No,3
+,28,No,Travel_Rarely,Research & Development,Associates Degree,1,536,Male,Laboratory Technician,1,Divorced,4558,13535,1,No,3
+4/22/2022 12:00:00 AM,25,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,538,Male,Laboratory Technician,1,Married,4031,9396,5,No,3
+,52,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,543,Male,Manufacturing Director,3,Married,7969,19609,2,Yes,3
+,45,No,Travel_Rarely,Research & Development,Associates Degree,1,544,Male,Research Scientist,4,Married,2654,9655,3,No,4
+,52,No,Travel_Rarely,Research & Development,Associates Degree,1,546,Female,Manager,4,Married,16555,10310,2,No,3
+,42,No,Travel_Frequently,Research & Development,Associates Degree,1,547,Female,Research Scientist,3,Divorced,4556,12932,2,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,548,Female,Manufacturing Director,4,Single,6091,24793,2,No,4
+,60,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,549,Female,Manager,1,Married,19566,3854,5,No,3
+,46,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,550,Female,Manufacturing Director,3,Divorced,4810,26314,2,No,3
+,42,No,Travel_Frequently,Research & Development,Master's Degree,1,551,Female,Healthcare Representative,4,Married,4523,4386,0,No,3
+4/27/2022 12:00:00 AM,24,Yes,Travel_Rarely,Sales,High School,1,554,Female,Sales Representative,2,Single,3202,21972,1,Yes,3
+3/16/2022 12:00:00 AM,34,Yes,Travel_Frequently,Sales,Associates Degree,1,555,Female,Sales Representative,3,Divorced,2351,12253,0,No,3
+,38,No,Travel_Frequently,Research & Development,Associates Degree,1,556,Male,Laboratory Technician,4,Married,1702,12106,1,Yes,4
+,40,No,Travel_Rarely,Sales,Master's Degree,1,558,Female,Manager,3,Married,18041,13022,0,No,3
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,560,Female,Research Scientist,4,Divorced,2886,3032,1,No,4
+,30,No,Non-Travel,Research & Development,Bachelor's Degree,1,562,Male,Laboratory Technician,4,Married,2097,16734,4,No,3
+,29,No,Travel_Rarely,Research & Development,Master's Degree,1,564,Male,Research Director,3,Married,11935,21526,1,No,3
+11-01-2021 00:00,29,Yes,Travel_Rarely,Research & Development,Doctoral Degree,1,565,Female,Research Scientist,2,Married,2546,18300,5,No,3
+04-11-2022 00:00,19,Yes,Travel_Rarely,Human Resources,Associates Degree,1,566,Male,Human Resources,4,Single,2564,18437,1,No,3
+,30,No,Non-Travel,Sales,Master's Degree,1,567,Female,Sales Executive,1,Married,8412,2890,0,No,3
+,57,No,Travel_Rarely,Sales,Bachelor's Degree,1,568,Male,Manager,4,Divorced,14118,22102,3,No,3
+,50,No,Travel_Rarely,Research & Development,Master's Degree,1,569,Male,Manager,3,Married,17046,9314,0,No,3
+,30,No,Non-Travel,Research & Development,Bachelor's Degree,1,571,Female,Laboratory Technician,4,Single,2564,7181,0,No,3
+,60,No,Travel_Frequently,Sales,Bachelor's Degree,1,573,Female,Sales Executive,1,Married,10266,2845,4,No,3
+,47,No,Travel_Rarely,Research & Development,Associates Degree,1,574,Female,Manufacturing Director,4,Divorced,5070,7389,5,No,3
+,46,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,575,Male,Research Director,3,Married,17861,2288,6,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,577,Male,Laboratory Technician,3,Single,4230,19225,0,No,3
+,54,No,Travel_Rarely,Research & Development,Master's Degree,1,578,Female,Laboratory Technician,3,Single,3780,23428,7,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,579,Male,Research Scientist,3,Divorced,2768,8416,3,No,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,580,Female,Sales Executive,4,Married,9071,11563,2,Yes,3
+,31,No,Travel_Rarely,Research & Development,High School,1,581,Male,Manufacturing Director,2,Divorced,10648,14394,1,No,4
+1/28/2022 12:00:00 AM,33,Yes,Travel_Rarely,Research & Development,High School,1,582,Male,Manager,3,Married,13610,24619,7,Yes,3
+03-04-2022 00:00,33,Yes,Travel_Rarely,Research & Development,High School,1,584,Male,Laboratory Technician,4,Divorced,3408,6705,7,No,3
+,30,No,Travel_Rarely,Sales,High School,1,585,Male,Sales Representative,2,Single,2983,18398,0,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,586,Male,Healthcare Representative,3,Married,7632,14295,4,Yes,3
+8/22/2021 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,587,Male,Healthcare Representative,3,Married,9824,22908,3,No,3
+5/29/2021 12:00:00 AM,34,Yes,Travel_Frequently,Human Resources,Bachelor's Degree,1,590,Female,Human Resources,1,Divorced,9950,11533,9,Yes,3
+,42,No,Travel_Frequently,Research & Development,Associates Degree,1,591,Male,Laboratory Technician,3,Married,2093,9260,4,No,3
+,36,No,Non-Travel,Sales,Master's Degree,1,592,Male,Sales Executive,4,Single,9980,15318,1,No,3
+03-06-2022 00:00,22,Yes,Travel_Frequently,Research & Development,High School,1,593,Male,Laboratory Technician,3,Single,3894,9129,5,No,3
+,48,No,Travel_Rarely,Sales,Doctoral Degree,1,595,Female,Sales Executive,4,Married,4051,19658,2,No,3
+,55,No,Travel_Rarely,Sales,Doctoral Degree,1,597,Female,Manager,2,Single,16835,9873,3,No,4
+,41,No,Non-Travel,Sales,Associates Degree,1,599,Male,Sales Executive,4,Single,6230,13430,7,No,3
+,35,No,Travel_Rarely,Sales,Bachelor's Degree,1,600,Male,Sales Executive,3,Married,4717,18659,9,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,601,Female,Manufacturing Director,3,Single,13237,20364,7,No,3
+,39,No,Travel_Frequently,Research & Development,High School,1,602,Female,Laboratory Technician,3,Married,3755,17872,1,No,3
+,31,No,Travel_Rarely,Sales,High School,1,604,Male,Sales Executive,4,Single,6582,8346,4,Yes,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,605,Male,Manufacturing Director,1,Married,7406,6950,1,Yes,4
+,45,No,Travel_Rarely,Sales,Bachelor's Degree,1,606,Male,Sales Executive,2,Married,4805,16177,0,No,3
+9/30/2021 12:00:00 AM,26,Yes,Travel_Frequently,Human Resources,Master's Degree,1,608,Female,Human Resources,3,Divorced,2741,22808,0,Yes,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,611,Male,Manufacturing Director,4,Divorced,4262,22645,4,No,3
+,33,No,Travel_Rarely,Research & Development,Doctoral Degree,1,612,Female,Research Director,3,Divorced,16184,22578,4,No,3
+,31,No,Travel_Rarely,Sales,Bachelor's Degree,1,613,Male,Manager,4,Divorced,11557,25291,9,No,4
+3/25/2022 12:00:00 AM,18,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,614,Male,Sales Representative,2,Single,1878,8059,1,Yes,3
+,40,No,Non-Travel,Sales,Bachelor's Degree,1,615,Male,Sales Executive,1,Divorced,10932,11373,3,No,3
+,41,No,Non-Travel,Research & Development,Master's Degree,1,616,Female,Healthcare Representative,3,Single,6811,2112,2,Yes,3
+,26,No,Travel_Rarely,Sales,Associates Degree,1,618,Male,Sales Executive,3,Divorced,4306,4267,5,No,3
+,35,No,Travel_Rarely,Sales,Bachelor's Degree,1,620,Female,Sales Executive,3,Single,4859,6698,1,No,3
+,34,No,Travel_Rarely,Sales,Master's Degree,1,621,Male,Sales Executive,4,Single,5337,19921,1,No,3
+11-09-2021 00:00,26,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,622,Male,Laboratory Technician,4,Single,2340,23213,1,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,623,Female,Manufacturing Director,4,Single,7491,23848,4,No,3
+,46,No,Travel_Frequently,Research & Development,High School,1,624,Female,Healthcare Representative,3,Married,10527,8984,5,No,3
+,41,No,Travel_Rarely,Sales,Doctoral Degree,1,625,Female,Manager,1,Married,16595,5626,7,No,3
+,37,No,Non-Travel,Sales,Master's Degree,1,626,Male,Sales Executive,2,Divorced,8834,24666,1,No,3
+,52,No,Travel_Rarely,Research & Development,Associates Degree,1,630,Male,Research Scientist,1,Divorced,5577,22087,3,Yes,3
+3/22/2022 12:00:00 AM,32,Yes,Non-Travel,Sales,Master's Degree,1,631,Male,Sales Executive,3,Married,4707,23914,8,No,3
+,24,No,Travel_Frequently,Sales,Bachelor's Degree,1,632,Male,Sales Representative,4,Married,2400,5530,0,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,634,Female,Healthcare Representative,3,Married,9824,22174,3,No,3
+,37,No,Travel_Rarely,Research & Development,Master's Degree,1,635,Female,Manufacturing Director,2,Married,6447,15701,6,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,638,Male,Research Director,3,Divorced,19502,2125,1,Yes,3
+,24,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,639,Male,Research Scientist,4,Married,2725,21630,1,Yes,3
+,26,No,Travel_Rarely,Sales,Associates Degree,1,641,Male,Sales Executive,2,Married,6272,7428,1,No,4
+,24,No,Travel_Rarely,Research & Development,Associates Degree,1,643,Male,Laboratory Technician,2,Married,2127,9100,1,No,4
+,50,No,Travel_Frequently,Human Resources,Bachelor's Degree,1,644,Male,Manager,2,Married,18200,7999,1,No,3
+,25,No,Travel_Rarely,Sales,High School,1,645,Male,Sales Representative,3,Married,2096,26376,1,No,3
+02-07-2022 00:00,24,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,647,Female,Laboratory Technician,3,Married,2886,14168,1,Yes,3
+12-04-2021 00:00,30,Yes,Travel_Frequently,Sales,Master's Degree,1,648,Male,Sales Representative,1,Married,2033,14470,1,No,3
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,649,Male,Research Scientist,4,Married,3622,22794,1,Yes,3
+02-11-2022 00:00,31,Yes,Travel_Rarely,Sales,Master's Degree,1,650,Male,Sales Executive,1,Divorced,4233,11512,2,No,3
+,35,No,Travel_Rarely,Research & Development,Associates Degree,1,652,Male,Laboratory Technician,4,Single,3681,14004,4,No,3
+,31,No,Travel_Rarely,Sales,Master's Degree,1,653,Male,Sales Executive,4,Divorced,5460,6219,4,No,4
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,655,Female,Research Scientist,3,Divorced,2187,5013,0,No,3
+,37,No,Travel_Rarely,Sales,Bachelor's Degree,1,656,Male,Sales Executive,3,Married,9602,3010,4,Yes,3
+,20,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,657,Female,Research Scientist,2,Single,2836,11757,1,No,3
+,42,No,Travel_Rarely,Research & Development,Master's Degree,1,659,Female,Healthcare Representative,4,Married,4089,5718,1,No,3
+,43,No,Travel_Rarely,Research & Development,Master's Degree,1,661,Male,Research Director,4,Divorced,16627,2671,4,Yes,3
+,38,No,Travel_Rarely,Research & Development,High School,1,662,Female,Research Scientist,1,Single,2619,14561,3,No,3
+,43,No,Travel_Frequently,Research & Development,Doctoral Degree,1,663,Male,Laboratory Technician,3,Divorced,5679,19627,3,Yes,3
+,48,No,Travel_Rarely,Research & Development,Master's Degree,1,664,Female,Manager,1,Married,15402,17997,7,No,3
+,44,No,Travel_Rarely,Human Resources,Master's Degree,1,665,Female,Human Resources,3,Single,5985,26894,4,No,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,666,Female,Sales Representative,3,Divorced,2579,2912,1,Yes,3
+4/25/2022 12:00:00 AM,27,Yes,Travel_Rarely,Sales,High School,1,667,Male,Sales Representative,1,Divorced,3041,16346,0,No,3
+,21,No,Travel_Rarely,Sales,High School,1,669,Male,Sales Representative,3,Single,3447,24444,1,No,3
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,671,Male,Manager,4,Married,19513,9358,4,Yes,3
+,22,No,Travel_Rarely,Research & Development,High School,1,675,Male,Research Scientist,3,Married,2773,12145,0,No,4
+,33,No,Travel_Rarely,Sales,Master's Degree,1,677,Male,Sales Executive,3,Divorced,7104,20431,0,No,3
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,679,Female,Research Scientist,4,Married,6322,18089,1,Yes,3
+,30,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,680,Female,Research Scientist,3,Divorced,2083,22653,1,No,4
+,53,No,Travel_Rarely,Sales,High School,1,682,Female,Sales Executive,1,Single,8381,7507,7,No,4
+,34,No,Travel_Rarely,Research & Development,Doctoral Degree,1,683,Male,Research Scientist,4,Married,2691,7660,1,No,3
+06-05-2021 00:00,45,Yes,Travel_Frequently,Sales,Master's Degree,1,684,Female,Sales Executive,1,Married,4286,5630,2,No,3
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,686,Female,Laboratory Technician,4,Married,2659,17759,1,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,689,Male,Manufacturing Director,3,Married,9434,9606,1,No,3
+,29,No,Travel_Rarely,Sales,Associates Degree,1,690,Female,Sales Executive,3,Married,5561,3487,1,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,691,Male,Research Scientist,4,Single,6646,19368,1,No,3
+,33,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,692,Male,Healthcare Representative,4,Divorced,7725,5335,3,No,4
+,54,No,Travel_Rarely,Human Resources,Master's Degree,1,698,Male,Human Resources,2,Married,10725,6729,2,No,3
+,36,No,Travel_Rarely,Research & Development,Associates Degree,1,699,Male,Manufacturing Director,2,Divorced,8847,13934,2,Yes,3
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,700,Male,Research Scientist,4,Single,2045,15174,0,No,3
+03-04-2022 00:00,20,Yes,Travel_Rarely,Research & Development,High School,1,701,Male,Research Scientist,3,Single,1009,26999,1,Yes,3
+3/31/2022 12:00:00 AM,33,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,702,Male,Research Scientist,1,Single,3348,3164,1,Yes,3
+,35,No,Non-Travel,Research & Development,Bachelor's Degree,1,704,Male,Laboratory Technician,3,Married,1281,16900,1,No,3
+,23,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,705,Male,Research Scientist,1,Married,2819,8544,2,No,3
+,25,No,Travel_Rarely,Sales,Bachelor's Degree,1,707,Male,Sales Executive,2,Married,4851,15678,0,No,4
+,38,No,Travel_Rarely,Sales,Master's Degree,1,709,Female,Sales Executive,4,Single,4028,7791,0,No,4
+,29,No,Travel_Frequently,Research & Development,Master's Degree,1,710,Male,Research Scientist,4,Divorced,2720,18959,1,No,3
+,48,No,Travel_Rarely,Sales,High School,1,712,Male,Sales Executive,2,Married,8120,18597,3,No,3
+,27,No,Travel_Frequently,Sales,High School,1,714,Female,Sales Executive,4,Divorced,4647,16673,1,Yes,4
+,37,No,Travel_Rarely,Research & Development,Associates Degree,1,715,Male,Research Scientist,4,Single,4680,15232,3,No,3
+,50,No,Travel_Rarely,Research & Development,High School,1,716,Male,Laboratory Technician,3,Married,3221,3297,1,Yes,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,717,Female,Healthcare Representative,2,Single,8621,17654,1,No,3
+04-04-2022 00:00,24,Yes,Travel_Rarely,Sales,Associates Degree,1,720,Female,Sales Executive,3,Single,4577,24785,9,No,3
+,39,No,Travel_Rarely,Research & Development,Master's Degree,1,721,Female,Healthcare Representative,3,Single,4553,20978,1,No,3
+,32,No,Travel_Rarely,Sales,Bachelor's Degree,1,722,Male,Sales Executive,4,Single,5396,21703,1,No,3
+01-01-2022 00:00,50,Yes,Travel_Frequently,Sales,Associates Degree,1,723,Male,Sales Executive,3,Married,6796,23452,3,Yes,3
+,38,No,Travel_Rarely,Research & Development,Master's Degree,1,724,Female,Healthcare Representative,4,Single,7625,19383,0,No,3
+,27,No,Travel_Rarely,Research & Development,Associates Degree,1,725,Female,Manufacturing Director,1,Married,7412,6009,1,No,3
+,32,No,Travel_Rarely,Research & Development,Associates Degree,1,727,Female,Research Director,4,Single,11159,19373,3,No,3
+,47,No,Travel_Rarely,Sales,Master's Degree,1,728,Male,Sales Executive,1,Single,4960,11825,2,No,3
+,40,No,Travel_Frequently,Sales,Master's Degree,1,729,Male,Sales Executive,1,Married,10475,23772,5,Yes,4
+,53,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,730,Male,Research Director,3,Married,14814,13514,3,No,3
+,41,No,Travel_Rarely,Human Resources,Master's Degree,1,731,Male,Manager,4,Divorced,19141,8861,3,No,3
+,60,No,Travel_Rarely,Sales,Master's Degree,1,732,Male,Sales Executive,1,Single,5405,11924,8,No,3
+,27,No,Travel_Frequently,Research & Development,Associates Degree,1,733,Male,Manufacturing Director,1,Divorced,8793,4809,1,No,4
+,41,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,734,Male,Manager,3,Married,19189,19562,1,No,3
+,50,No,Travel_Rarely,Sales,Master's Degree,1,738,Male,Sales Representative,2,Married,3875,9983,7,No,3
+4/30/2022 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Associates Degree,1,741,Female,Research Scientist,2,Single,2216,3872,7,Yes,3
+,36,No,Non-Travel,Research & Development,Bachelor's Degree,1,742,Female,Research Director,1,Married,11713,20335,9,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,743,Female,Manufacturing Director,3,Single,7861,15397,4,Yes,3
+,44,No,Non-Travel,Research & Development,Bachelor's Degree,1,744,Male,Laboratory Technician,3,Single,3708,2104,2,No,3
+,47,No,Travel_Frequently,Sales,Bachelor's Degree,1,746,Female,Sales Executive,3,Divorced,13770,10225,9,Yes,3
+,30,No,Travel_Rarely,Sales,Doctoral Degree,1,747,Male,Sales Executive,4,Divorced,5304,25275,7,No,4
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,749,Male,Sales Representative,3,Single,2642,2755,1,No,3
+12/27/2021 12:00:00 AM,42,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,752,Male,Research Scientist,3,Divorced,2759,20366,6,Yes,3
+,43,No,Travel_Frequently,Sales,Bachelor's Degree,1,754,Male,Sales Executive,4,Married,6804,23683,3,No,3
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,757,Female,Healthcare Representative,3,Single,6142,7360,3,No,3
+,23,No,Travel_Rarely,Research & Development,High School,1,758,Male,Laboratory Technician,1,Married,2500,4344,1,No,3
+,39,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,760,Female,Human Resources,2,Married,6389,18767,9,No,3
+,56,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,762,Male,Healthcare Representative,4,Married,11103,20420,7,No,3
+,40,No,Travel_Rarely,Research & Development,High School,1,763,Female,Research Scientist,4,Single,2342,22929,0,Yes,4
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,764,Female,Healthcare Representative,1,Single,6811,23398,8,No,3
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,766,Male,Sales Representative,2,Divorced,2297,17967,1,No,3
+,53,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,769,Male,Laboratory Technician,4,Single,2450,10919,2,No,3
+,35,No,Non-Travel,Research & Development,Master's Degree,1,771,Female,Healthcare Representative,1,Divorced,5093,4761,2,No,3
+,32,No,Travel_Frequently,Research & Development,Master's Degree,1,772,Male,Laboratory Technician,4,Married,5309,21146,1,No,3
+,38,No,Travel_Rarely,Research & Development,Doctoral Degree,1,773,Male,Research Scientist,3,Married,3057,20471,6,Yes,3
+,34,No,Travel_Rarely,Research & Development,Doctoral Degree,1,775,Female,Manufacturing Director,1,Divorced,5121,4187,3,No,3
+,52,No,Travel_Rarely,Sales,Master's Degree,1,776,Male,Manager,1,Married,16856,10084,1,No,3
+05-08-2022 00:00,33,Yes,Travel_Rarely,Research & Development,Master's Degree,1,780,Male,Research Scientist,4,Single,2686,5207,1,Yes,3
+,25,No,Travel_Rarely,Sales,High School,1,781,Female,Sales Executive,4,Single,6180,22807,1,No,4
+,45,No,Travel_Rarely,Sales,Associates Degree,1,783,Male,Sales Representative,3,Single,6632,12388,0,No,3
+,23,No,Travel_Rarely,Research & Development,High School,1,784,Male,Research Scientist,3,Single,3505,19630,1,No,3
+11/23/2021 12:00:00 AM,47,Yes,Travel_Frequently,Sales,Associates Degree,1,785,Female,Sales Executive,3,Single,6397,10339,4,Yes,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,786,Male,Sales Executive,4,Single,6274,18686,1,No,4
+4/29/2022 12:00:00 AM,55,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,787,Male,Manager,1,Married,19859,21199,5,Yes,3
+,36,No,Non-Travel,Sales,Master's Degree,1,789,Male,Sales Executive,1,Single,7587,14229,1,No,3
+,52,No,Non-Travel,Research & Development,Master's Degree,1,791,Male,Research Scientist,4,Married,4258,26589,0,No,3
+,26,No,Travel_Frequently,Research & Development,Associates Degree,1,792,Female,Laboratory Technician,4,Divorced,4364,5288,3,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,793,Female,Healthcare Representative,3,Married,4335,25549,4,No,3
+01-05-2022 00:00,26,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,796,Male,Sales Executive,1,Single,5326,3064,6,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,797,Female,Research Scientist,4,Single,3280,13551,2,No,3
+,54,No,Travel_Rarely,Research & Development,Master's Degree,1,799,Female,Manufacturing Director,1,Divorced,5485,22670,9,Yes,3
+,27,No,Travel_Frequently,Sales,High School,1,800,Male,Sales Executive,4,Married,4342,24008,0,No,3
+,37,No,Travel_Rarely,Research & Development,High School,1,802,Female,Research Scientist,1,Divorced,2782,19905,0,Yes,3
+,38,No,Travel_Frequently,Research & Development,Master's Degree,1,803,Female,Manufacturing Director,1,Single,5980,26085,6,Yes,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,804,Female,Research Scientist,1,Single,4381,7530,1,No,3
+,35,No,Travel_Rarely,Sales,Master's Degree,1,805,Female,Sales Representative,4,Married,2572,20317,1,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,806,Male,Laboratory Technician,3,Married,3833,24375,3,No,4
+,40,No,Travel_Frequently,Research & Development,Associates Degree,1,807,Female,Healthcare Representative,2,Married,4244,9931,1,No,4
+,34,No,Travel_Rarely,Sales,Associates Degree,1,808,Female,Sales Executive,1,Married,6500,13305,5,No,3
+,42,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,809,Male,Manager,4,Divorced,18430,16225,1,No,3
+2/24/2022 12:00:00 AM,23,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,811,Male,Laboratory Technician,1,Married,1601,3445,1,Yes,4
+,24,No,Non-Travel,Research & Development,Bachelor's Degree,1,812,Male,Laboratory Technician,2,Divorced,2694,26551,1,No,3
+,52,No,Travel_Rarely,Research & Development,Master's Degree,1,813,Female,Laboratory Technician,3,Married,3149,21821,8,No,4
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,815,Male,Research Director,3,Married,17639,6881,5,No,3
+4/30/2022 12:00:00 AM,29,Yes,Travel_Rarely,Research & Development,Associates Degree,1,816,Female,Laboratory Technician,1,Married,2319,6689,1,Yes,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,817,Male,Research Director,3,Married,11691,25995,0,No,3
+12/20/2021 12:00:00 AM,33,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,819,Female,Sales Executive,1,Single,5324,26507,5,No,3
+,47,No,Travel_Rarely,Research & Development,Associates Degree,1,820,Female,Manager,4,Married,16752,12982,1,Yes,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,823,Female,Manufacturing Director,2,Married,5228,23361,0,No,3
+,29,No,Travel_Rarely,Research & Development,Associates Degree,1,824,Male,Research Scientist,3,Married,2700,23779,1,No,4
+4/17/2022 12:00:00 AM,58,Yes,Travel_Rarely,Research & Development,Master's Degree,1,825,Male,Research Director,2,Single,19246,25761,7,Yes,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,826,Female,Research Scientist,3,Single,2506,13301,3,No,3
+,42,No,Travel_Rarely,Research & Development,Associates Degree,1,827,Female,Manufacturing Director,4,Married,6062,4051,9,Yes,3
+4/29/2022 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Master's Degree,1,828,Male,Research Scientist,3,Single,4382,16374,6,No,3
+,36,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,829,Male,Human Resources,2,Married,2143,25527,4,No,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,830,Female,Manufacturing Director,3,Married,6162,19124,1,No,3
+,40,No,Travel_Frequently,Research & Development,Master's Degree,1,832,Male,Laboratory Technician,3,Single,5094,11983,6,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,833,Female,Manufacturing Director,4,Single,6877,20234,5,Yes,4
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,834,Female,Research Scientist,3,Single,2274,6153,1,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,836,Male,Manufacturing Director,2,Married,4434,11806,1,No,3
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,837,Male,Healthcare Representative,1,Divorced,6288,4284,2,No,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,838,Female,Research Scientist,4,Single,2553,8306,1,No,3
+02-03-2022 00:00,49,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,840,Female,Sales Executive,4,Married,7654,5860,1,No,3
+4/29/2022 12:00:00 AM,55,Yes,Travel_Rarely,Sales,High School,1,842,Male,Sales Executive,4,Single,5160,21519,4,No,3
+,43,No,Travel_Rarely,Research & Development,Associates Degree,1,843,Male,Research Director,1,Married,17159,5200,6,No,4
+,27,No,Travel_Rarely,Research & Development,High School,1,844,Male,Research Director,4,Divorced,12808,8842,1,Yes,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,845,Male,Manufacturing Director,3,Single,10221,18869,3,No,4
+,28,No,Travel_Rarely,Sales,Master's Degree,1,846,Female,Sales Executive,2,Married,4779,3698,1,Yes,4
+,34,No,Travel_Rarely,Human Resources,Associates Degree,1,847,Male,Human Resources,4,Married,3737,2243,0,No,3
+04-04-2022 00:00,26,Yes,Travel_Frequently,Research & Development,Associates Degree,1,848,Female,Research Scientist,3,Married,2366,20898,1,Yes,3
+,27,No,Non-Travel,Research & Development,Bachelor's Degree,1,850,Male,Research Scientist,4,Married,1706,16571,1,No,3
+,51,No,Travel_Rarely,Sales,Master's Degree,1,851,Female,Manager,3,Married,16307,5594,2,No,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,852,Male,Healthcare Representative,2,Single,5933,5197,9,No,3
+,25,No,Travel_Rarely,Research & Development,High School,1,854,Male,Research Scientist,1,Single,3424,21632,7,No,3
+,33,No,Travel_Rarely,Sales,Bachelor's Degree,1,855,Male,Sales Executive,1,Divorced,4037,21816,1,No,4
+,35,No,Travel_Rarely,Research & Development,High School,1,856,Female,Research Scientist,1,Single,2559,17852,1,No,3
+,36,No,Travel_Rarely,Sales,Associates Degree,1,857,Male,Sales Executive,4,Married,6201,2823,1,Yes,3
+,32,No,Travel_Rarely,Sales,Master's Degree,1,859,Male,Sales Executive,4,Divorced,4403,9250,2,No,3
+,30,No,Travel_Frequently,Research & Development,Master's Degree,1,861,Male,Research Scientist,4,Divorced,3761,2373,9,No,3
+,53,No,Travel_Rarely,Sales,Associates Degree,1,862,Female,Sales Executive,4,Married,10934,20715,7,Yes,3
+,45,No,Travel_Rarely,Sales,Bachelor's Degree,1,864,Male,Sales Executive,1,Divorced,10761,19239,4,Yes,3
+,32,No,Travel_Rarely,Research & Development,Associates Degree,1,865,Female,Research Scientist,3,Married,5175,22162,5,No,3
+,52,No,Travel_Frequently,Research & Development,Master's Degree,1,867,Female,Manufacturing Director,4,Married,13826,19028,3,No,4
+,37,No,Travel_Rarely,Sales,Master's Degree,1,868,Male,Sales Executive,3,Divorced,6334,24558,4,No,3
+,28,No,Travel_Rarely,Human Resources,Associates Degree,1,869,Male,Human Resources,4,Divorced,4936,23965,1,No,3
+,22,No,Travel_Rarely,Research & Development,Associates Degree,1,872,Male,Manufacturing Director,4,Married,4775,19146,6,No,4
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,874,Male,Laboratory Technician,4,Married,2818,5044,2,Yes,4
+,42,No,Travel_Frequently,Research & Development,High School,1,875,Male,Research Scientist,4,Single,2515,9068,5,Yes,3
+,36,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,878,Male,Human Resources,1,Married,2342,8635,0,No,4
+,25,No,Travel_Rarely,Sales,High School,1,879,Male,Sales Executive,1,Married,4194,14363,1,Yes,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,880,Female,Manufacturing Director,3,Married,10685,23457,1,Yes,4
+6/18/2021 12:00:00 AM,35,Yes,Travel_Frequently,Research & Development,Master's Degree,1,881,Female,Research Scientist,2,Divorced,2022,16612,1,Yes,3
+,32,No,Non-Travel,Research & Development,Bachelor's Degree,1,882,Male,Laboratory Technician,4,Divorced,2314,9148,0,No,3
+,25,No,Travel_Rarely,Sales,High School,1,885,Male,Sales Executive,1,Married,4256,18154,1,No,3
+,49,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,887,Female,Research Scientist,1,Married,3580,10554,2,No,3
+,24,No,Non-Travel,Research & Development,High School,1,888,Male,Laboratory Technician,4,Married,3162,10778,0,No,3
+,32,No,Travel_Frequently,Sales,Associates Degree,1,889,Male,Sales Executive,2,Married,6524,8891,1,No,3
+,38,No,Travel_Rarely,Sales,Bachelor's Degree,1,893,Male,Sales Representative,2,Married,2899,12102,0,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,894,Female,Laboratory Technician,4,Married,5231,23726,2,Yes,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,895,Male,Research Scientist,4,Married,2356,14871,3,Yes,3
+05-06-2022 00:00,29,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,896,Female,Sales Representative,3,Divorced,2800,23522,6,Yes,3
+,53,No,Travel_Rarely,Sales,Bachelor's Degree,1,897,Male,Sales Executive,4,Married,11836,22789,5,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,899,Male,Manufacturing Director,2,Married,10903,9129,3,No,3
+,37,No,Travel_Frequently,Sales,Associates Degree,1,900,Female,Sales Representative,4,Married,2973,21222,5,No,3
+,53,No,Travel_Rarely,Research & Development,Master's Degree,1,901,Female,Research Director,4,Single,14275,20206,6,No,3
+,43,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,902,Female,Healthcare Representative,4,Married,5562,21782,4,No,3
+,47,No,Travel_Rarely,Sales,Associates Degree,1,903,Female,Sales Executive,4,Married,4537,17783,0,Yes,4
+,37,No,Non-Travel,Sales,Associates Degree,1,904,Male,Sales Executive,2,Single,7642,4814,1,Yes,3
+,50,No,Non-Travel,Research & Development,Master's Degree,1,905,Male,Manager,1,Divorced,17924,4544,1,No,3
+,39,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,909,Female,Human Resources,4,Married,5204,7790,8,No,3
+,33,No,Travel_Rarely,Human Resources,Associates Degree,1,910,Male,Human Resources,2,Divorced,2277,22650,3,Yes,3
+6/22/2021 12:00:00 AM,32,Yes,Travel_Rarely,Research & Development,Master's Degree,1,911,Male,Laboratory Technician,4,Single,2795,18016,1,Yes,4
+,29,No,Travel_Rarely,Research & Development,High School,1,912,Female,Laboratory Technician,4,Divorced,2532,6054,6,No,3
+,44,No,Travel_Rarely,Research & Development,Associates Degree,1,913,Male,Research Scientist,1,Married,2559,7508,1,Yes,3
+,28,No,Travel_Rarely,Sales,Master's Degree,1,916,Male,Sales Executive,4,Single,4908,24252,1,No,3
+4/13/2022 12:00:00 AM,58,Yes,Travel_Frequently,Research & Development,High School,1,918,Male,Laboratory Technician,4,Divorced,2380,13384,9,Yes,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,920,Female,Manufacturing Director,2,Divorced,4765,23814,4,No,4
+4/29/2022 12:00:00 AM,20,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,922,Female,Sales Representative,3,Single,2044,22052,1,No,3
+02-12-2022 00:00,21,Yes,Travel_Rarely,Research & Development,High School,1,923,Female,Research Scientist,4,Single,2693,8870,1,No,3
+,36,No,Travel_Rarely,Research & Development,High School,1,924,Male,Healthcare Representative,4,Married,6586,4821,0,Yes,3
+,47,No,Travel_Rarely,Sales,Master's Degree,1,925,Female,Sales Representative,4,Single,3294,13137,1,Yes,3
+04-04-2022 00:00,22,Yes,Travel_Rarely,Research & Development,High School,1,926,Female,Manufacturing Director,3,Married,4171,10022,0,Yes,3
+4/17/2022 12:00:00 AM,41,Yes,Travel_Rarely,Research & Development,Master's Degree,1,927,Female,Laboratory Technician,4,Divorced,2778,17725,4,Yes,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,930,Female,Research Scientist,3,Divorced,2377,9834,5,No,3
+04-01-2022 00:00,39,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,932,Male,Laboratory Technician,1,Married,2404,4303,7,Yes,4
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,933,Female,Research Scientist,3,Single,2318,17808,1,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,934,Male,Laboratory Technician,2,Divorced,2008,6896,1,No,3
+,42,No,Travel_Rarely,Sales,Associates Degree,1,936,Female,Sales Executive,3,Single,6244,7824,7,No,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,939,Male,Research Scientist,1,Single,2799,3339,3,Yes,3
+,58,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,940,Female,Healthcare Representative,2,Divorced,10552,9255,2,Yes,3
+,31,No,Travel_Rarely,Sales,Master's Degree,1,941,Male,Sales Representative,3,Married,2329,11737,3,No,3
+,35,No,Travel_Rarely,Research & Development,High School,1,942,Female,Healthcare Representative,4,Married,4014,19170,1,Yes,4
+,49,No,Travel_Rarely,Research & Development,Associates Degree,1,944,Female,Laboratory Technician,2,Married,7403,22477,4,No,3
+,48,No,Travel_Rarely,Research & Development,Master's Degree,1,945,Male,Research Scientist,3,Married,2259,5543,4,No,3
+,31,No,Non-Travel,Sales,Associates Degree,1,947,Female,Sales Executive,3,Married,6932,24406,1,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,949,Male,Research Scientist,4,Single,4678,23293,2,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,950,Female,Research Director,1,Married,13582,16292,1,No,3
+,32,No,Non-Travel,Research & Development,Bachelor's Degree,1,951,Female,Laboratory Technician,2,Married,2332,3974,6,No,4
+11/23/2021 12:00:00 AM,25,Yes,Travel_Rarely,Sales,Associates Degree,1,952,Male,Sales Representative,2,Married,2413,18798,1,Yes,3
+,40,No,Travel_Rarely,Sales,Master's Degree,1,954,Male,Sales Executive,2,Divorced,9705,20652,2,No,3
+,26,No,Travel_Frequently,Sales,Bachelor's Degree,1,956,Male,Sales Executive,1,Single,4294,11148,1,No,3
+,41,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,957,Male,Laboratory Technician,1,Single,4721,3119,2,Yes,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,958,Male,Laboratory Technician,3,Single,2519,12287,4,No,4
+1/28/2022 12:00:00 AM,19,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,959,Male,Sales Representative,2,Single,2121,9947,1,Yes,3
+03-10-2022 00:00,20,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,960,Male,Laboratory Technician,1,Single,2973,13008,1,No,3
+,31,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,961,Female,Healthcare Representative,4,Married,5855,17369,0,Yes,3
+,40,No,Travel_Frequently,Research & Development,Master's Degree,1,964,Male,Research Scientist,2,Divorced,3617,25063,8,Yes,3
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,966,Female,Manufacturing Director,1,Married,6725,13554,1,No,3
+04-04-2022 00:00,36,Yes,Travel_Rarely,Sales,High School,1,967,Male,Sales Executive,4,Married,10325,5518,1,Yes,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,969,Female,Healthcare Representative,4,Single,6949,12291,0,No,3
+4/30/2022 12:00:00 AM,37,Yes,Travel_Rarely,Sales,Master's Degree,1,970,Male,Sales Executive,3,Married,10609,14922,5,No,3
+,45,No,Non-Travel,Research & Development,Associates Degree,1,972,Male,Laboratory Technician,2,Married,4447,23163,1,No,3
+,29,No,Travel_Frequently,Sales,Bachelor's Degree,1,974,Female,Sales Representative,4,Married,2157,18203,1,No,3
+,35,No,Travel_Rarely,Sales,Bachelor's Degree,1,975,Female,Sales Executive,3,Married,4601,6179,1,No,3
+,52,No,Travel_Rarely,Research & Development,Associates Degree,1,976,Male,Manager,4,Married,17099,13829,2,No,3
+04-11-2022 00:00,58,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,977,Male,Research Scientist,3,Single,2479,26227,4,No,4
+,53,No,Travel_Rarely,Sales,Associates Degree,1,981,Male,Manager,3,Divorced,14852,13938,6,No,3
+,30,No,Travel_Rarely,Sales,Associates Degree,1,982,Male,Sales Executive,3,Divorced,7264,9977,5,No,3
+,38,No,Non-Travel,Sales,Bachelor's Degree,1,983,Female,Sales Executive,4,Single,5666,19899,1,Yes,3
+,35,No,Travel_Rarely,Sales,Master's Degree,1,984,Male,Sales Executive,4,Divorced,7823,6812,6,No,3
+,39,No,Travel_Rarely,Sales,Doctoral Degree,1,985,Male,Sales Executive,3,Single,7880,2560,0,No,3
+07-08-2021 00:00,40,Yes,Non-Travel,Sales,Bachelor's Degree,1,986,Female,Sales Executive,2,Single,13194,17071,4,Yes,3
+,47,No,Travel_Frequently,Research & Development,Master's Degree,1,987,Male,Manufacturing Director,3,Divorced,5067,6759,1,Yes,3
+,36,No,Non-Travel,Sales,Master's Degree,1,990,Male,Sales Executive,4,Divorced,5079,25952,4,No,3
+3/14/2022 12:00:00 AM,31,Yes,Non-Travel,Research & Development,Associates Degree,1,991,Male,Research Scientist,1,Single,2321,10322,0,Yes,4
+,33,No,Non-Travel,Sales,Bachelor's Degree,1,992,Male,Manager,3,Single,17444,20489,1,No,3
+01-03-2022 00:00,29,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,994,Female,Research Scientist,1,Single,2404,11479,6,Yes,4
+,33,No,Travel_Rarely,Research & Development,High School,1,995,Female,Research Scientist,4,Single,3452,17241,3,No,3
+,45,No,Travel_Rarely,Research & Development,Master's Degree,1,996,Female,Laboratory Technician,4,Divorced,2270,11005,3,No,3
+,50,No,Travel_Rarely,Research & Development,Associates Degree,1,997,Male,Research Director,4,Divorced,17399,6615,9,No,4
+,33,No,Travel_Frequently,Research & Development,Master's Degree,1,998,Female,Healthcare Representative,2,Married,5488,20161,1,Yes,3
+,41,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,999,Male,Research Director,3,Divorced,19419,3735,2,No,3
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,1001,Female,Laboratory Technician,2,Married,2811,12086,9,No,3
+,45,No,Non-Travel,Research & Development,Associates Degree,1,1002,Male,Laboratory Technician,1,Married,3633,14039,1,Yes,3
+,47,No,Travel_Rarely,Sales,Associates Degree,1,1003,Female,Sales Executive,4,Single,4163,8571,1,Yes,3
+7/31/2021 12:00:00 AM,30,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1004,Female,Research Scientist,3,Married,2132,11539,4,Yes,3
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1005,Male,Manufacturing Director,3,Married,13973,4161,3,Yes,3
+,38,No,Travel_Frequently,Research & Development,High School,1,1006,Male,Research Scientist,3,Married,2684,12127,0,No,3
+,46,No,Travel_Rarely,Research & Development,Associates Degree,1,1007,Male,Manufacturing Director,3,Divorced,10845,24208,6,No,3
+,24,No,Travel_Rarely,Research & Development,High School,1,1009,Female,Manufacturing Director,3,Divorced,4377,24117,1,No,3
+03-04-2022 00:00,35,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1010,Male,Laboratory Technician,2,Divorced,3743,10074,1,Yes,4
+,31,No,Travel_Frequently,Research & Development,High School,1,1011,Female,Manufacturing Director,1,Married,4148,11275,1,No,3
+,18,No,Non-Travel,Research & Development,Associates Degree,1,1012,Male,Research Scientist,4,Single,1051,13493,1,No,3
+,54,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1013,Female,Manufacturing Director,3,Married,10739,13943,8,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,1014,Female,Healthcare Representative,3,Divorced,10388,6975,1,Yes,3
+,30,No,Travel_Rarely,Research & Development,Associates Degree,1,1015,Female,Research Director,1,Married,11416,17802,0,Yes,3
+2/25/2022 12:00:00 AM,20,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1016,Female,Research Scientist,1,Single,2600,18275,1,Yes,3
+04-04-2022 00:00,30,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1017,Female,Laboratory Technician,2,Single,2422,25725,0,No,3
+,26,No,Travel_Rarely,Research & Development,Associates Degree,1,1018,Male,Manufacturing Director,4,Married,5472,3334,1,No,3
+,22,No,Travel_Rarely,Research & Development,High School,1,1019,Male,Laboratory Technician,1,Married,2451,6881,1,No,3
+,48,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1022,Male,Healthcare Representative,3,Single,4240,13119,2,No,3
+,48,No,Travel_Rarely,Research & Development,Master's Degree,1,1024,Male,Healthcare Representative,3,Single,10999,22245,7,No,3
+,41,No,Travel_Rarely,Research & Development,Associates Degree,1,1025,Female,Manufacturing Director,3,Single,5003,23371,6,No,3
+,39,No,Travel_Rarely,Research & Development,High School,1,1026,Female,Manufacturing Director,4,Married,12742,7060,1,No,3
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,1027,Female,Manufacturing Director,4,Married,4227,4658,0,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1028,Male,Laboratory Technician,4,Divorced,3917,9541,1,No,4
+,42,No,Travel_Rarely,Sales,Associates Degree,1,1029,Male,Manager,3,Married,18303,7770,6,No,3
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1030,Male,Laboratory Technician,4,Married,2380,20165,4,No,3
+,59,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1032,Female,Manufacturing Director,4,Single,13726,21829,3,Yes,3
+2/25/2022 12:00:00 AM,37,Yes,Travel_Rarely,Research & Development,Associates Degree,1,1033,Female,Healthcare Representative,2,Married,4777,14382,5,No,3
+,55,No,Travel_Frequently,Research & Development,Master's Degree,1,1034,Male,Healthcare Representative,2,Married,6385,12992,3,Yes,3
+,41,No,Non-Travel,Research & Development,High School,1,1035,Female,Research Director,3,Divorced,19973,20284,1,No,4
+,38,No,Travel_Rarely,Sales,Master's Degree,1,1036,Male,Sales Executive,4,Single,6861,4981,8,Yes,3
+10/25/2021 12:00:00 AM,26,Yes,Non-Travel,Sales,Associates Degree,1,1037,Male,Sales Executive,1,Single,4969,21813,8,No,3
+4/25/2022 12:00:00 AM,52,Yes,Travel_Rarely,Sales,High School,1,1038,Female,Manager,4,Married,19845,25846,1,No,3
+,44,No,Travel_Rarely,Sales,Bachelor's Degree,1,1039,Female,Sales Executive,4,Married,13320,11737,3,Yes,3
+,50,No,Non-Travel,Sales,Bachelor's Degree,1,1040,Female,Sales Executive,3,Married,6347,24920,0,No,3
+10/17/2021 12:00:00 AM,36,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1042,Female,Laboratory Technician,1,Single,2743,8269,1,No,3
+,39,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1043,Female,Manufacturing Director,1,Single,10880,5083,1,Yes,3
+,33,No,Non-Travel,Sales,High School,1,1044,Female,Sales Representative,4,Single,2342,21437,0,No,3
+,45,No,Travel_Rarely,Sales,Associates Degree,1,1045,Female,Manager,4,Married,17650,5404,3,No,3
+,32,No,Non-Travel,Research & Development,Master's Degree,1,1046,Female,Laboratory Technician,3,Single,4025,11135,9,No,3
+,34,No,Travel_Rarely,Sales,Master's Degree,1,1047,Male,Sales Executive,4,Divorced,9725,12278,0,No,3
+,59,No,Travel_Rarely,Sales,Associates Degree,1,1048,Male,Manager,4,Married,11904,11038,3,Yes,3
+,45,No,Travel_Rarely,Human Resources,Master's Degree,1,1049,Male,Human Resources,2,Single,2177,8318,1,No,3
+,53,No,Travel_Frequently,Sales,Bachelor's Degree,1,1050,Female,Sales Executive,2,Married,7525,23537,2,No,3
+2/27/2022 12:00:00 AM,36,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1052,Male,Laboratory Technician,3,Divorced,4834,7858,7,No,3
+4/13/2022 12:00:00 AM,26,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1053,Male,Research Scientist,1,Married,2042,15346,6,Yes,3
+,34,No,Travel_Rarely,Sales,Master's Degree,1,1055,Female,Sales Representative,3,Married,2220,18410,1,Yes,3
+,28,No,Travel_Rarely,Sales,High School,1,1056,Male,Sales Representative,2,Married,1052,23384,1,No,4
+,38,No,Travel_Frequently,Research & Development,Master's Degree,1,1060,Male,Research Scientist,3,Married,2821,2997,3,No,3
+,50,No,Travel_Rarely,Research & Development,Master's Degree,1,1061,Male,Research Director,3,Married,19237,12853,2,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1062,Female,Healthcare Representative,2,Single,4107,13848,3,No,3
+,40,No,Travel_Rarely,Sales,Bachelor's Degree,1,1066,Male,Sales Executive,1,Married,8396,22217,1,No,3
+,26,No,Travel_Frequently,Research & Development,High School,1,1068,Female,Research Scientist,3,Divorced,2007,25265,1,No,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,1069,Male,Research Director,4,Divorced,19627,21445,9,No,3
+,54,No,Travel_Rarely,Sales,Master's Degree,1,1070,Female,Sales Executive,3,Married,10686,8392,6,No,3
+,56,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1071,Female,Research Scientist,3,Married,2942,12154,2,No,3
+,36,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1073,Female,Manufacturing Director,4,Single,8858,15669,0,No,3
+,55,No,Non-Travel,Research & Development,High School,1,1074,Male,Manager,1,Single,16756,17323,7,No,3
+,43,No,Travel_Rarely,Sales,Bachelor's Degree,1,1076,Male,Sales Executive,4,Divorced,10798,5268,5,No,3
+2/17/2022 12:00:00 AM,20,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1077,Female,Sales Representative,4,Single,2323,17205,1,Yes,3
+01-03-2022 00:00,21,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1079,Female,Laboratory Technician,1,Single,1416,17258,1,No,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,1080,Female,Research Scientist,1,Divorced,4615,21029,8,Yes,4
+3/22/2022 12:00:00 AM,51,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1081,Male,Research Scientist,3,Married,2461,10332,9,Yes,3
+11-10-2021 00:00,28,Yes,Non-Travel,Research & Development,Associates Degree,1,1082,Male,Healthcare Representative,1,Single,8722,12355,1,No,3
+,26,No,Travel_Rarely,Research & Development,Associates Degree,1,1083,Male,Laboratory Technician,1,Married,3955,11141,1,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1084,Male,Manufacturing Director,1,Married,9957,9096,0,No,3
+,41,No,Travel_Rarely,Research & Development,Associates Degree,1,1085,Female,Research Scientist,3,Married,3376,18863,1,No,3
+,38,No,Travel_Rarely,Research & Development,High School,1,1088,Female,Healthcare Representative,3,Married,8823,24608,0,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,1092,Male,Healthcare Representative,4,Married,10322,26542,4,No,4
+,27,No,Non-Travel,Research & Development,Doctoral Degree,1,1094,Male,Laboratory Technician,3,Married,4621,5869,1,No,3
+,55,No,Travel_Frequently,Research & Development,High School,1,1096,Male,Manufacturing Director,2,Married,10976,15813,3,No,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1097,Female,Research Scientist,3,Single,3660,7909,3,No,3
+05-06-2022 00:00,44,Yes,Travel_Rarely,Human Resources,Associates Degree,1,1098,Male,Human Resources,1,Married,10482,2326,9,No,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1099,Male,Healthcare Representative,4,Divorced,7119,21214,4,No,3
+03-10-2022 00:00,35,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1100,Male,Sales Executive,1,Single,9582,10333,0,Yes,4
+10/18/2021 12:00:00 AM,33,Yes,Travel_Frequently,Research & Development,Master's Degree,1,1101,Female,Research Scientist,3,Single,4508,3129,1,No,4
+,28,No,Travel_Rarely,Research & Development,Associates Degree,1,1102,Male,Laboratory Technician,3,Divorced,2207,22482,1,No,3
+,34,No,Travel_Frequently,Research & Development,High School,1,1103,Male,Healthcare Representative,4,Single,7756,22266,0,No,3
+,37,No,Travel_Rarely,Sales,Master's Degree,1,1105,Female,Sales Executive,4,Divorced,6694,24223,2,Yes,3
+03-10-2022 00:00,25,Yes,Travel_Rarely,Research & Development,High School,1,1106,Male,Laboratory Technician,4,Married,3691,4605,1,Yes,3
+12/17/2021 12:00:00 AM,26,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1107,Male,Laboratory Technician,3,Divorced,2377,19373,1,No,4
+11/19/2021 12:00:00 AM,33,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1108,Male,Research Scientist,2,Single,2313,2993,4,Yes,4
+,42,No,Travel_Rarely,Research & Development,Associates Degree,1,1109,Male,Manager,1,Married,17665,14399,0,No,3
+05-02-2022 00:00,28,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1111,Male,Laboratory Technician,2,Divorced,2596,7160,1,No,3
+05-04-2022 00:00,50,Yes,Travel_Frequently,Sales,Master's Degree,1,1113,Male,Sales Executive,3,Single,4728,17251,3,Yes,3
+,33,No,Travel_Frequently,Sales,Bachelor's Degree,1,1114,Female,Sales Executive,2,Married,4302,13401,0,No,3
+,34,No,Non-Travel,Research & Development,Master's Degree,1,1115,Male,Research Scientist,4,Married,2979,22478,3,No,3
+,48,No,Non-Travel,Research & Development,Master's Degree,1,1116,Male,Manager,4,Single,16885,16154,2,No,4
+,45,No,Non-Travel,Sales,Master's Degree,1,1117,Female,Sales Executive,3,Married,5593,17970,1,No,3
+,52,No,Travel_Rarely,Research & Development,Master's Degree,1,1118,Male,Healthcare Representative,2,Single,10445,15322,7,No,3
+,38,No,Travel_Rarely,Sales,Master's Degree,1,1119,Male,Sales Executive,3,Divorced,8740,5569,0,Yes,3
+,29,No,Travel_Rarely,Research & Development,Master's Degree,1,1120,Female,Research Scientist,4,Divorced,2514,26968,4,No,4
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1121,Female,Manufacturing Director,2,Divorced,7655,8039,0,No,3
+,46,No,Travel_Rarely,Sales,High School,1,1124,Male,Manager,3,Married,17465,15596,3,No,3
+,38,No,Travel_Rarely,Sales,Associates Degree,1,1125,Male,Sales Executive,2,Single,7351,20619,7,No,3
+,43,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1126,Female,Manufacturing Director,1,Married,10820,11535,8,No,3
+4/13/2022 12:00:00 AM,39,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1127,Male,Healthcare Representative,4,Divorced,12169,13547,7,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1128,Male,Research Director,3,Single,19626,17544,1,No,3
+,21,No,Travel_Rarely,Research & Development,High School,1,1131,Female,Research Scientist,2,Single,2070,25326,1,Yes,3
+,39,No,Non-Travel,Research & Development,Bachelor's Degree,1,1132,Male,Laboratory Technician,2,Single,6782,8770,9,No,3
+,36,No,Non-Travel,Research & Development,Master's Degree,1,1133,Male,Manufacturing Director,4,Single,7779,23238,2,No,4
+,31,No,Travel_Frequently,Sales,Bachelor's Degree,1,1135,Male,Sales Representative,4,Married,2791,21981,0,No,3
+,28,No,Travel_Rarely,Research & Development,High School,1,1136,Male,Research Scientist,2,Married,3201,19911,0,No,3
+,35,No,Travel_Frequently,Sales,Associates Degree,1,1137,Male,Sales Executive,4,Divorced,4968,18500,1,No,3
+,49,No,Travel_Rarely,Sales,Master's Degree,1,1138,Male,Sales Executive,2,Married,13120,11879,6,No,3
+,34,No,Travel_Frequently,Research & Development,Associates Degree,1,1140,Male,Manufacturing Director,3,Single,4033,15834,2,No,3
+,29,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1143,Female,Research Scientist,2,Divorced,3291,17940,0,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1148,Male,Laboratory Technician,4,Single,4272,9558,4,No,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1150,Male,Manufacturing Director,4,Married,5056,17689,1,Yes,3
+,38,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1152,Male,Human Resources,3,Married,2844,6004,1,No,3
+,28,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1154,Male,Research Scientist,3,Divorced,2703,22088,1,Yes,3
+3/21/2022 12:00:00 AM,18,Yes,Non-Travel,Research & Development,High School,1,1156,Male,Laboratory Technician,3,Single,1904,13556,1,No,3
+2/21/2022 12:00:00 AM,33,Yes,Travel_Rarely,Sales,Master's Degree,1,1157,Female,Sales Executive,1,Single,8224,18385,0,Yes,3
+,41,No,Travel_Rarely,Research & Development,Master's Degree,1,1158,Male,Laboratory Technician,4,Married,4766,9051,3,Yes,3
+1/24/2022 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1160,Male,Laboratory Technician,3,Married,2610,6233,1,No,3
+,37,No,Travel_Rarely,Research & Development,Associates Degree,1,1161,Female,Healthcare Representative,4,Divorced,5731,17171,7,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1162,Male,Research Scientist,3,Married,2539,7950,1,No,3
+,34,No,Travel_Rarely,Sales,High School,1,1163,Female,Sales Executive,3,Married,5714,5829,1,No,4
+,35,No,Travel_Rarely,Human Resources,Master's Degree,1,1164,Male,Human Resources,3,Single,4323,7108,1,No,3
+7/18/2021 12:00:00 AM,29,Yes,Travel_Rarely,Sales,High School,1,1165,Female,Sales Executive,1,Married,7336,11162,1,No,3
+,40,No,Travel_Frequently,Research & Development,Master's Degree,1,1166,Female,Research Director,3,Single,13499,13782,9,No,3
+12-04-2021 00:00,42,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1167,Male,Sales Executive,1,Single,13758,2447,0,Yes,3
+,42,No,Travel_Rarely,Sales,Master's Degree,1,1171,Male,Sales Executive,1,Single,5155,2253,7,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,1172,Male,Laboratory Technician,3,Married,2258,16340,6,No,3
+,24,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1173,Male,Laboratory Technician,2,Single,3597,6409,8,No,4
+12-08-2021 00:00,28,Yes,Travel_Rarely,Research & Development,High School,1,1175,Female,Laboratory Technician,4,Married,2515,22955,1,Yes,3
+,26,No,Travel_Rarely,Research & Development,Master's Degree,1,1177,Male,Laboratory Technician,4,Married,4420,13421,1,No,4
+,30,No,Travel_Rarely,Sales,Bachelor's Degree,1,1179,Male,Sales Executive,3,Married,6578,2706,1,No,3
+,40,No,Travel_Frequently,Research & Development,Associates Degree,1,1180,Female,Research Scientist,4,Married,4422,21203,3,Yes,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1182,Male,Manufacturing Director,2,Divorced,10274,19588,2,No,3
+,34,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1184,Male,Healthcare Representative,1,Single,5343,25755,0,No,4
+,35,No,Travel_Frequently,Research & Development,Master's Degree,1,1185,Male,Laboratory Technician,4,Married,2376,26537,1,No,3
+2/21/2022 12:00:00 AM,43,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1188,Female,Sales Executive,3,Single,5346,9489,8,No,3
+,32,No,Non-Travel,Sales,High School,1,1190,Female,Sales Representative,1,Divorced,2827,14947,1,No,3
+,56,No,Travel_Rarely,Research & Development,Master's Degree,1,1191,Female,Manager,1,Divorced,19943,18575,4,No,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1192,Female,Laboratory Technician,4,Married,3131,26342,1,No,3
+,19,No,Travel_Rarely,Research & Development,Associates Degree,1,1193,Male,Research Scientist,1,Single,2552,7172,1,No,4
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1195,Female,Research Scientist,3,Married,4477,20100,4,Yes,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1196,Female,Manufacturing Director,4,Married,6474,9961,1,No,3
+,20,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1198,Male,Laboratory Technician,3,Single,3033,12828,1,No,3
+01-03-2022 00:00,44,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1200,Male,Research Scientist,3,Single,2936,10826,1,Yes,3
+,53,No,Travel_Rarely,Research & Development,Associates Degree,1,1201,Female,Manager,3,Divorced,18606,18640,3,No,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1202,Female,Research Scientist,4,Married,2168,26933,0,Yes,3
+3/31/2022 12:00:00 AM,22,Yes,Travel_Frequently,Research & Development,Master's Degree,1,1203,Male,Research Scientist,4,Married,2853,4223,0,Yes,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,1204,Female,Manager,1,Married,17048,24097,8,No,4
+,44,No,Non-Travel,Research & Development,Bachelor's Degree,1,1206,Male,Research Scientist,3,Single,2290,4279,2,No,3
+,33,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1207,Male,Human Resources,3,Married,3600,8429,1,No,3
+03-12-2022 00:00,41,Yes,Non-Travel,Research & Development,Associates Degree,1,1210,Male,Research Scientist,1,Divorced,2107,20293,6,No,3
+,30,No,Travel_Rarely,Sales,Master's Degree,1,1211,Male,Sales Executive,1,Divorced,4115,13192,8,No,3
+,40,No,Travel_Frequently,Sales,Master's Degree,1,1212,Male,Sales Executive,2,Married,4327,25440,5,No,3
+,50,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1215,Female,Manager,1,Married,17856,9490,2,No,4
+,28,No,Travel_Rarely,Research & Development,Master's Degree,1,1216,Male,Laboratory Technician,1,Married,3196,12449,1,No,3
+,46,No,Travel_Rarely,Research & Development,Associates Degree,1,1217,Male,Research Director,2,Married,19081,10849,5,No,3
+,35,No,Travel_Rarely,Sales,Master's Degree,1,1218,Male,Sales Executive,1,Married,8966,21026,3,Yes,3
+10-04-2021 00:00,24,Yes,Travel_Rarely,Research & Development,Associates Degree,1,1219,Female,Laboratory Technician,2,Married,2210,3372,1,No,3
+,33,No,Travel_Frequently,Sales,Bachelor's Degree,1,1220,Female,Sales Executive,3,Married,4539,4905,1,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1221,Male,Laboratory Technician,3,Divorced,2741,6865,1,No,3
+,30,No,Travel_Rarely,Research & Development,Master's Degree,1,1224,Male,Laboratory Technician,3,Divorced,3491,11309,1,No,3
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,1225,Male,Research Scientist,4,Single,4541,7744,1,No,4
+,20,No,Travel_Rarely,Sales,Bachelor's Degree,1,1226,Male,Sales Representative,4,Single,2678,5050,1,No,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,1228,Male,Manufacturing Director,4,Divorced,7379,17433,2,No,3
+,42,No,Non-Travel,Human Resources,Doctoral Degree,1,1231,Male,Human Resources,1,Married,6272,12858,7,No,3
+,60,No,Travel_Rarely,Sales,Master's Degree,1,1233,Male,Sales Executive,4,Divorced,5220,10893,0,Yes,3
+,32,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1234,Female,Laboratory Technician,2,Married,2743,7331,1,No,4
+,32,No,Travel_Frequently,Research & Development,Associates Degree,1,1235,Female,Research Scientist,3,Single,4998,2338,4,Yes,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1237,Female,Manufacturing Director,1,Divorced,10252,4235,2,Yes,4
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1238,Male,Research Scientist,4,Married,2781,6311,0,No,3
+,40,No,Travel_Rarely,Sales,Bachelor's Degree,1,1239,Female,Sales Executive,2,Divorced,6852,11591,7,No,3
+,25,No,Travel_Rarely,Sales,Master's Degree,1,1240,Male,Sales Executive,4,Single,4950,20623,0,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1241,Male,Research Scientist,2,Married,3579,9369,0,Yes,4
+,42,No,Travel_Frequently,Research & Development,Doctoral Degree,1,1242,Female,Research Director,1,Married,13191,23281,3,Yes,3
+,35,No,Non-Travel,Sales,Associates Degree,1,1243,Female,Sales Executive,4,Married,10377,13755,4,Yes,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1244,Male,Research Scientist,1,Married,2235,14377,1,Yes,3
+,54,No,Travel_Frequently,Research & Development,Master's Degree,1,1245,Female,Manufacturing Director,3,Divorced,10502,9659,7,No,3
+,44,No,Travel_Rarely,Research & Development,High School,1,1246,Female,Research Scientist,4,Married,2011,19982,1,No,3
+03-07-2022 00:00,19,Yes,Non-Travel,Research & Development,Bachelor's Degree,1,1248,Female,Research Scientist,2,Single,1859,6148,1,Yes,4
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1249,Female,Research Scientist,4,Divorced,3760,5598,1,No,3
+,54,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1250,Male,Research Director,4,Married,17779,23474,3,No,3
+,31,No,Travel_Rarely,Research & Development,Associates Degree,1,1251,Male,Healthcare Representative,1,Married,6833,17089,1,Yes,3
+,31,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1252,Female,Healthcare Representative,1,Single,6812,17198,1,No,3
+,59,No,Travel_Rarely,Sales,Bachelor's Degree,1,1254,Female,Sales Executive,4,Single,5171,16490,5,No,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1255,Male,Research Director,4,Married,19740,18625,3,No,3
+,49,No,Travel_Rarely,Research & Development,Associates Degree,1,1256,Male,Manager,3,Married,18711,12124,2,No,3
+,36,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1257,Male,Research Scientist,2,Married,3692,9256,1,No,3
+,48,No,Travel_Rarely,Research & Development,Associates Degree,1,1258,Male,Laboratory Technician,2,Single,2559,16620,5,No,3
+,27,No,Travel_Rarely,Research & Development,Associates Degree,1,1259,Male,Research Scientist,3,Divorced,2517,3208,1,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1260,Male,Healthcare Representative,4,Divorced,6623,4204,1,Yes,3
+,48,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1263,Male,Research Director,4,Single,18265,8733,6,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1264,Female,Research Director,4,Divorced,16124,3423,3,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1265,Female,Research Scientist,3,Married,2585,21643,0,No,3
+,44,No,Travel_Rarely,Sales,Bachelor's Degree,1,1267,Male,Manager,2,Married,18213,8751,7,No,3
+,33,No,Travel_Rarely,Sales,Doctoral Degree,1,1268,Male,Sales Executive,3,Divorced,8380,21708,0,Yes,3
+,19,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1269,Female,Research Scientist,4,Single,2994,21221,1,Yes,3
+,23,No,Travel_Rarely,Research & Development,Associates Degree,1,1270,Male,Research Scientist,3,Married,1223,16901,1,No,4
+07-01-2021 00:00,25,Yes,Travel_Frequently,Sales,High School,1,1273,Male,Sales Representative,4,Single,1118,8040,1,Yes,3
+,26,No,Travel_Rarely,Research & Development,Associates Degree,1,1275,Male,Research Scientist,4,Single,2875,9973,1,Yes,4
+4/25/2022 12:00:00 AM,45,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1277,Female,Manager,2,Single,18824,2493,2,Yes,3
+,55,No,Non-Travel,Research & Development,High School,1,1278,Male,Healthcare Representative,2,Divorced,13577,25592,1,Yes,3
+12/30/2021 12:00:00 AM,21,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1279,Female,Laboratory Technician,3,Single,2625,25308,1,No,4
+,46,No,Travel_Rarely,Sales,Associates Degree,1,1280,Female,Manager,2,Married,18789,9946,2,No,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,1281,Female,Sales Executive,1,Single,4538,6039,0,Yes,3
+,51,No,Travel_Frequently,Sales,Bachelor's Degree,1,1282,Male,Manager,2,Divorced,19847,19196,4,Yes,4
+,59,No,Travel_Rarely,Research & Development,Master's Degree,1,1283,Male,Manufacturing Director,4,Single,10512,20002,6,No,3
+,34,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1285,Female,Laboratory Technician,2,Divorced,4444,22534,4,No,3
+,28,No,Travel_Frequently,Research & Development,Master's Degree,1,1286,Male,Laboratory Technician,3,Single,2154,6842,0,Yes,3
+,44,No,Travel_Rarely,Research & Development,Associates Degree,1,1288,Male,Manager,1,Divorced,19190,17477,1,No,3
+,34,No,Travel_Frequently,Human Resources,Bachelor's Degree,1,1289,Male,Human Resources,2,Married,4490,21833,4,No,3
+,35,No,Travel_Rarely,Research & Development,High School,1,1291,Male,Research Scientist,3,Married,3506,6020,0,Yes,3
+,42,No,Travel_Rarely,Research & Development,Master's Degree,1,1292,Female,Research Scientist,2,Married,2372,5628,6,Yes,3
+,43,No,Travel_Rarely,Sales,Master's Degree,1,1293,Female,Sales Executive,4,Single,10231,20364,3,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1294,Female,Manufacturing Director,2,Single,5410,2323,9,Yes,3
+1/28/2022 12:00:00 AM,44,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1295,Female,Healthcare Representative,4,Married,7978,14075,1,No,3
+,28,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1296,Male,Laboratory Technician,4,Married,3867,14222,1,Yes,3
+,51,No,Travel_Frequently,Research & Development,Associates Degree,1,1297,Female,Laboratory Technician,3,Single,2838,4257,0,No,3
+,30,No,Non-Travel,Research & Development,Associates Degree,1,1298,Female,Manufacturing Director,3,Single,4695,12858,7,Yes,3
+1/21/2022 12:00:00 AM,29,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1299,Female,Laboratory Technician,3,Divorced,3339,17285,3,Yes,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1301,Male,Research Scientist,1,Single,2080,4732,2,No,3
+,25,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1303,Female,Research Scientist,2,Single,2096,18830,1,No,3
+,32,No,Travel_Rarely,Sales,Bachelor's Degree,1,1304,Male,Sales Executive,4,Married,6209,11693,1,No,3
+,45,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1306,Female,Manager,2,Single,18061,13035,3,No,4
+,39,No,Travel_Rarely,Research & Development,Master's Degree,1,1307,Female,Manager,2,Divorced,17123,17334,6,Yes,3
+,58,No,Travel_Rarely,Research & Development,Master's Degree,1,1308,Male,Research Scientist,3,Divorced,2372,26076,1,No,3
+02-11-2022 00:00,32,Yes,Travel_Rarely,Research & Development,Associates Degree,1,1309,Male,Laboratory Technician,3,Married,4883,22845,1,No,3
+12-03-2021 00:00,39,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1310,Male,Research Scientist,1,Single,3904,22154,0,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1311,Female,Laboratory Technician,4,Married,4627,23631,0,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1312,Female,Healthcare Representative,3,Married,7094,5747,3,No,3
+,46,No,Travel_Rarely,Human Resources,Associates Degree,1,1314,Female,Human Resources,1,Single,3423,22957,6,No,3
+,28,No,Non-Travel,Research & Development,Bachelor's Degree,1,1315,Female,Laboratory Technician,4,Married,6674,16392,0,No,3
+,50,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1317,Female,Research Director,1,Married,16880,22422,4,Yes,3
+9/30/2021 12:00:00 AM,40,Yes,Travel_Rarely,Sales,Master's Degree,1,1318,Male,Sales Executive,2,Single,9094,17235,2,Yes,3
+03-09-2022 00:00,52,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1319,Male,Sales Executive,2,Single,8446,21534,9,Yes,3
+,30,No,Travel_Rarely,Research & Development,Master's Degree,1,1321,Female,Manager,1,Married,11916,25927,1,Yes,4
+,39,No,Travel_Rarely,Research & Development,Associates Degree,1,1322,Male,Manufacturing Director,3,Single,4534,13352,0,No,3
+,31,No,Non-Travel,Sales,Master's Degree,1,1324,Female,Sales Executive,3,Divorced,9852,8935,1,Yes,3
+,41,No,Non-Travel,Sales,Associates Degree,1,1329,Male,Sales Executive,2,Single,6151,22074,1,No,3
+4/26/2022 12:00:00 AM,31,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1331,Female,Sales Representative,2,Single,2302,8319,1,Yes,3
+04-04-2022 00:00,44,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1333,Male,Laboratory Technician,1,Married,2362,14669,4,No,3
+,42,No,Non-Travel,Research & Development,High School,1,1334,Male,Manager,3,Married,17861,26582,0,Yes,3
+,55,No,Travel_Rarely,Research & Development,Associates Degree,1,1336,Female,Manager,3,Married,19187,6992,4,No,3
+,56,No,Travel_Rarely,Human Resources,Master's Degree,1,1338,Male,Manager,2,Single,19717,4022,6,No,3
+,40,No,Non-Travel,Research & Development,Associates Degree,1,1340,Male,Research Scientist,3,Divorced,3544,8532,9,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1344,Male,Healthcare Representative,4,Divorced,8500,5494,0,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1346,Male,Research Scientist,4,Single,4661,22455,1,No,3
+,41,No,Travel_Frequently,Sales,Bachelor's Degree,1,1349,Female,Sales Executive,1,Divorced,4103,4297,0,No,3
+,35,No,Travel_Frequently,Research & Development,Master's Degree,1,1350,Male,Research Scientist,3,Single,4249,2690,1,Yes,3
+,51,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1352,Male,Manager,2,Divorced,14026,17588,1,Yes,3
+,38,No,Travel_Rarely,Sales,Associates Degree,1,1355,Female,Sales Executive,1,Divorced,6893,19461,3,No,3
+,34,No,Travel_Rarely,Sales,Associates Degree,1,1356,Female,Sales Executive,1,Single,6125,23553,1,No,3
+,25,No,Travel_Rarely,Research & Development,High School,1,1358,Male,Laboratory Technician,4,Married,3669,9075,3,No,3
+3/25/2022 12:00:00 AM,58,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1360,Female,Manufacturing Director,1,Married,10008,12023,7,Yes,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,1361,Male,Laboratory Technician,2,Married,2387,6762,3,No,4
+,36,No,Travel_Frequently,Sales,Bachelor's Degree,1,1362,Female,Sales Executive,1,Married,4639,2261,2,No,3
+,48,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1363,Male,Manufacturing Director,4,Single,7898,18706,1,No,3
+,27,No,Travel_Rarely,Sales,Bachelor's Degree,1,1364,Female,Sales Representative,4,Married,2534,6527,8,No,3
+,51,No,Travel_Rarely,Research & Development,Associates Degree,1,1367,Female,Manufacturing Director,2,Single,13142,24439,3,No,3
+,18,No,Non-Travel,Research & Development,Bachelor's Degree,1,1368,Female,Laboratory Technician,4,Single,1611,19305,1,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1369,Female,Laboratory Technician,4,Married,5363,10846,0,No,3
+,27,No,Travel_Frequently,Sales,High School,1,1371,Male,Sales Executive,4,Single,5071,20392,3,No,4
+1/16/2022 12:00:00 AM,55,Yes,Travel_Rarely,Sales,Master's Degree,1,1372,Male,Sales Executive,3,Single,13695,9277,6,Yes,3
+,56,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1373,Male,Manufacturing Director,2,Married,13402,18235,4,Yes,3
+,34,No,Non-Travel,Research & Development,High School,1,1374,Female,Research Scientist,3,Divorced,2029,15891,1,No,4
+,40,No,Travel_Rarely,Research & Development,High School,1,1375,Female,Healthcare Representative,3,Divorced,6377,13888,5,No,4
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1377,Male,Laboratory Technician,3,Married,5429,17491,4,No,3
+4/13/2022 12:00:00 AM,31,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1379,Female,Sales Representative,4,Single,2785,11882,7,No,3
+11/28/2021 12:00:00 AM,35,Yes,Travel_Frequently,Sales,Master's Degree,1,1380,Female,Sales Executive,3,Married,4614,23288,0,Yes,3
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1382,Male,Research Scientist,3,Divorced,2610,15748,1,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,1383,Female,Healthcare Representative,4,Single,6687,6163,1,No,3
+,28,No,Travel_Rarely,Sales,Bachelor's Degree,1,1387,Male,Sales Executive,1,Married,4724,24232,1,No,3
+12-10-2021 00:00,31,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1389,Male,Manufacturing Director,3,Married,6179,21057,1,Yes,3
+,39,No,Travel_Rarely,Sales,Master's Degree,1,1390,Male,Sales Executive,4,Married,6120,3567,3,Yes,3
+,51,No,Travel_Frequently,Sales,Bachelor's Degree,1,1391,Male,Sales Executive,2,Married,10596,15395,2,No,3
+,41,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1392,Female,Research Scientist,4,Divorced,5467,13953,3,Yes,3
+,37,No,Travel_Rarely,Research & Development,High School,1,1394,Male,Research Scientist,3,Married,2996,5182,7,Yes,3
+,33,No,Travel_Frequently,Sales,High School,1,1395,Male,Sales Executive,4,Married,9998,19293,6,No,3
+,32,No,Travel_Rarely,Sales,High School,1,1396,Male,Sales Executive,2,Married,4078,20497,0,Yes,3
+,39,No,Non-Travel,Research & Development,Associates Degree,1,1397,Male,Healthcare Representative,3,Married,10920,3449,3,No,4
+,25,No,Travel_Rarely,Sales,High School,1,1399,Male,Sales Executive,3,Married,6232,12477,2,No,3
+,52,No,Travel_Frequently,Research & Development,Associates Degree,1,1401,Female,Manufacturing Director,3,Married,13247,9731,2,Yes,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1402,Female,Research Scientist,3,Single,4081,20003,1,Yes,3
+,27,No,Travel_Rarely,Sales,Bachelor's Degree,1,1403,Female,Sales Executive,4,Married,5769,7100,1,Yes,3
+10-04-2021 00:00,27,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1405,Female,Research Scientist,3,Single,2394,25681,1,Yes,3
+,26,No,Travel_Rarely,Research & Development,High School,1,1407,Male,Research Scientist,4,Single,3904,4050,0,No,3
+,42,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1408,Female,Manager,1,Married,16799,16616,0,No,3
+,32,No,Non-Travel,Research & Development,Master's Degree,1,1955,Female,Healthcare Representative,4,Divorced,6667,16542,5,No,3
+,35,No,Non-Travel,Research & Development,Master's Degree,1,1630,Female,Healthcare Representative,3,Married,4148,12250,1,No,3
+,47,No,Non-Travel,Research & Development,High School,1,2000,Female,Research Director,2,Married,11957,17231,0,No,3
+,36,No,Non-Travel,Research & Development,Master's Degree,1,1662,Female,Manufacturing Director,3,Married,4374,15411,0,No,3
+,39,No,Non-Travel,Sales,Master's Degree,1,1929,Female,Sales Executive,3,Married,5736,3987,6,No,3
+,24,No,Non-Travel,Sales,Associates Degree,1,1495,Female,Sales Representative,2,Married,2033,7103,1,No,3
+,18,No,Non-Travel,Research & Development,Bachelor's Degree,1,1839,Female,Research Scientist,3,Single,1514,8018,1,No,3
+,33,No,Non-Travel,Sales,Bachelor's Degree,1,1756,Female,Sales Executive,2,Single,5147,10697,8,No,3
+,48,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1900,Female,Manager,4,Divorced,17174,2437,3,No,3
+,36,No,Travel_Frequently,Research & Development,Associates Degree,1,2025,Female,Manufacturing Director,2,Divorced,5131,9192,7,No,3
+,38,No,Travel_Frequently,Research & Development,Associates Degree,1,1760,Female,Laboratory Technician,2,Married,2468,15963,4,No,3
+,40,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1985,Female,Laboratory Technician,3,Married,6323,26849,1,No,3
+,27,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1870,Female,Research Scientist,1,Married,4774,23844,0,No,3
+,29,No,Travel_Frequently,Research & Development,High School,1,1513,Female,Laboratory Technician,2,Married,3180,4668,0,No,3
+,44,No,Travel_Frequently,Sales,Doctoral Degree,1,1481,Female,Sales Executive,3,Married,4768,9282,7,No,3
+,31,No,Travel_Frequently,Sales,Master's Degree,1,1833,Female,Sales Executive,1,Married,9637,8277,2,No,3
+,42,No,Travel_Frequently,Research & Development,Associates Degree,1,1480,Female,Laboratory Technician,4,Single,3673,16458,1,No,3
+,39,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1633,Female,Manufacturing Director,3,Single,5042,3140,0,No,3
+,30,No,Travel_Frequently,Research & Development,Master's Degree,1,1745,Female,Research Scientist,1,Single,4968,26427,0,No,3
+,31,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1916,Female,Laboratory Technician,3,Divorced,3978,16031,8,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1829,Female,Healthcare Representative,1,Divorced,4448,10748,2,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1822,Female,Healthcare Representative,4,Divorced,6513,9060,4,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1762,Female,Research Scientist,1,Divorced,2109,10007,1,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1658,Female,Research Scientist,2,Divorced,5433,19332,1,No,3
+,45,No,Travel_Rarely,Research & Development,Associates Degree,1,1635,Female,Manufacturing Director,4,Divorced,5770,5388,1,No,3
+,50,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1656,Female,Research Director,1,Divorced,13269,21981,5,No,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,1863,Female,Sales Executive,1,Divorced,13225,7739,2,No,3
+,47,No,Travel_Rarely,Sales,Master's Degree,1,1676,Female,Manager,2,Divorced,15972,21086,6,No,3
+,48,No,Travel_Rarely,Sales,Master's Degree,1,1557,Female,Sales Executive,3,Divorced,6439,13693,8,No,3
+,30,No,Travel_Rarely,Sales,Master's Degree,1,1428,Female,Sales Executive,1,Divorced,4779,12761,7,No,3
+,25,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1987,Female,Human Resources,2,Married,2187,19655,4,No,3
+,47,No,Travel_Rarely,Human Resources,Master's Degree,1,1625,Female,Manager,3,Married,19658,5220,3,No,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,1502,Female,Laboratory Technician,2,Married,3838,8192,8,No,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1866,Female,Manager,3,Married,19392,22539,7,No,3
+,51,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1786,Female,Manager,3,Married,13116,22984,2,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,1655,Female,Research Director,2,Married,16413,3498,3,No,3
+,47,No,Travel_Rarely,Research & Development,Master's Degree,1,1443,Female,Research Director,3,Married,17169,26703,3,No,3
+,54,No,Travel_Rarely,Research & Development,Associates Degree,1,1969,Female,Research Scientist,3,Married,2897,22474,3,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1628,Female,Manufacturing Director,3,Married,10435,25800,1,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1647,Female,Research Scientist,3,Married,3517,22490,7,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1701,Female,Research Scientist,4,Married,2929,20338,1,No,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2015,Female,Research Director,3,Married,13206,3376,3,No,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1640,Female,Research Scientist,2,Married,3936,9953,1,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1651,Female,Healthcare Representative,1,Married,8008,22792,4,No,3
+,45,No,Travel_Rarely,Research & Development,Associates Degree,1,1888,Female,Manufacturing Director,4,Married,5906,23888,0,No,3
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,1607,Female,Research Scientist,4,Married,3312,18783,3,No,3
+,52,No,Travel_Rarely,Research & Development,Master's Degree,1,1409,Female,Laboratory Technician,1,Married,2950,17363,9,No,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1544,Female,Healthcare Representative,1,Married,9715,7288,3,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,2052,Female,Research Scientist,4,Married,2977,8952,1,No,3
+,40,No,Travel_Rarely,Research & Development,Associates Degree,1,1802,Female,Laboratory Technician,1,Married,3377,25605,4,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,1617,Female,Laboratory Technician,1,Married,3211,22102,1,No,3
+,48,No,Travel_Rarely,Research & Development,Master's Degree,1,1576,Female,Research Scientist,1,Married,2367,16530,8,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,2051,Female,Research Scientist,3,Married,2001,12549,2,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1447,Female,Laboratory Technician,2,Married,3294,3708,5,No,3
+,32,No,Travel_Rarely,Research & Development,Associates Degree,1,1555,Female,Research Scientist,2,Married,5878,15624,3,No,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,1782,Female,Laboratory Technician,3,Married,3702,16376,1,No,3
+,54,No,Travel_Rarely,Research & Development,Master's Degree,1,1830,Female,Research Scientist,4,Married,6854,15696,4,No,3
+,29,No,Travel_Rarely,Research & Development,Master's Degree,1,1709,Female,Laboratory Technician,3,Married,2974,25412,9,No,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,1687,Female,Laboratory Technician,3,Married,3306,26176,7,No,3
+,38,No,Travel_Rarely,Sales,Associates Degree,1,2041,Female,Sales Executive,4,Married,5343,5982,1,No,3
+,31,No,Travel_Rarely,Sales,Master's Degree,1,1784,Female,Sales Executive,4,Married,5468,13402,1,No,3
+,31,No,Travel_Rarely,Sales,Master's Degree,1,1673,Female,Sales Executive,4,Married,5476,22589,1,No,3
+,36,No,Travel_Rarely,Sales,Bachelor's Degree,1,2024,Female,Sales Executive,4,Married,7644,12695,0,No,3
+,39,No,Travel_Rarely,Sales,High School,1,2056,Female,Sales Executive,4,Married,12031,8828,0,No,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,2045,Female,Sales Executive,4,Married,6652,14369,4,No,3
+,40,No,Travel_Rarely,Sales,Associates Degree,1,1986,Female,Sales Executive,2,Married,5677,4258,3,No,3
+,28,No,Travel_Rarely,Sales,Bachelor's Degree,1,1875,Female,Sales Representative,2,Married,2856,3692,1,No,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,1527,Female,Manager,2,Married,16606,11380,8,No,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1436,Female,Sales Executive,1,Married,5647,13494,4,No,3
+,32,No,Travel_Rarely,Sales,Master's Degree,1,2016,Female,Sales Executive,4,Married,10422,24032,1,No,3
+,56,No,Travel_Rarely,Sales,Doctoral Degree,1,1935,Female,Sales Executive,1,Married,5380,20328,4,No,3
+,40,No,Travel_Rarely,Sales,Associates Degree,1,1598,Female,Sales Executive,1,Married,4639,11262,1,No,3
+,31,No,Travel_Rarely,Human Resources,Associates Degree,1,1461,Female,Human Resources,2,Single,2109,24609,9,No,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1411,Female,Laboratory Technician,3,Single,3629,19106,4,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1816,Female,Manufacturing Director,3,Single,9667,2739,9,No,3
+,31,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1430,Female,Research Director,2,Single,16422,8847,3,No,3
+,47,No,Travel_Rarely,Research & Development,Master's Degree,1,1856,Female,Laboratory Technician,3,Single,2105,5411,4,No,3
+,39,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1525,Female,Manufacturing Director,2,Single,8376,9150,4,No,3
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,2010,Female,Laboratory Technician,2,Single,2837,15919,1,No,3
+,23,No,Travel_Rarely,Research & Development,High School,1,1735,Female,Laboratory Technician,2,Single,3295,12862,1,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1751,Female,Research Scientist,4,Single,3445,6152,1,No,3
+,29,No,Travel_Rarely,Research & Development,Master's Degree,1,2054,Female,Research Scientist,1,Single,3785,8489,1,No,3
+,45,No,Travel_Rarely,Research & Development,Associates Degree,1,1719,Female,Research Director,2,Single,16704,17119,1,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1529,Female,Healthcare Representative,2,Single,8606,21195,1,No,3
+,54,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1422,Female,Research Director,4,Single,17328,5652,6,No,3
+,27,No,Travel_Rarely,Sales,Associates Degree,1,1898,Female,Sales Executive,3,Single,6500,26997,0,No,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1585,Female,Sales Executive,3,Single,6815,21447,6,No,3
+,38,No,Travel_Rarely,Sales,Bachelor's Degree,1,1583,Female,Sales Executive,2,Single,4198,16379,2,No,3
+,20,No,Travel_Rarely,Sales,Bachelor's Degree,1,1657,Female,Sales Representative,3,Single,2783,13251,1,No,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1710,Female,Sales Representative,4,Single,4502,7439,3,No,3
+,34,No,Travel_Rarely,Sales,Associates Degree,1,1779,Female,Sales Executive,4,Single,6029,25353,5,No,3
+,45,No,Travel_Rarely,Sales,Bachelor's Degree,1,2046,Female,Sales Executive,3,Single,4850,23333,8,No,3
+,49,No,Travel_Rarely,Sales,Master's Degree,1,1757,Female,Sales Executive,4,Single,4507,8191,3,No,3
+,26,No,Travel_Rarely,Sales,Bachelor's Degree,1,2060,Female,Sales Representative,3,Single,2966,21378,0,No,3
+,31,No,Non-Travel,Research & Development,Bachelor's Degree,1,1979,Female,Research Director,3,Married,11031,26862,4,No,4
+,45,No,Non-Travel,Sales,Master's Degree,1,1845,Female,Sales Executive,3,Married,5154,19665,4,No,4
+,54,No,Travel_Frequently,Research & Development,Master's Degree,1,1520,Female,Manager,4,Divorced,16032,24456,3,No,4
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1675,Female,Laboratory Technician,2,Single,2440,23826,1,No,4
+,31,No,Travel_Frequently,Research & Development,High School,1,1736,Female,Manufacturing Director,4,Single,5238,6670,2,No,4
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1622,Female,Manufacturing Director,1,Divorced,4877,20460,0,No,4
+,45,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1744,Female,Human Resources,3,Married,9756,6595,4,No,4
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1581,Female,Research Scientist,4,Married,2061,11133,1,No,4
+,41,No,Travel_Rarely,Research & Development,Master's Degree,1,2034,Female,Manufacturing Director,2,Married,13570,5640,0,No,4
+,56,No,Travel_Rarely,Research & Development,Associates Degree,1,1441,Female,Research Scientist,1,Married,2066,10494,2,No,4
+,54,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1665,Female,Manager,3,Married,17426,18685,3,No,4
+,49,No,Travel_Rarely,Research & Development,Associates Degree,1,1509,Female,Laboratory Technician,1,Married,4789,23070,4,No,4
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1834,Female,Research Scientist,1,Married,3591,12719,1,No,4
+,27,No,Travel_Rarely,Sales,High School,1,1864,Female,Sales Representative,3,Married,3540,7018,1,No,4
+,35,No,Travel_Rarely,Sales,Master's Degree,1,1554,Female,Sales Representative,3,Married,2430,26204,0,No,4
+,41,No,Travel_Rarely,Sales,Bachelor's Degree,1,1909,Female,Sales Executive,2,Married,4393,26841,5,No,4
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,2035,Female,Sales Executive,3,Married,6712,8978,1,No,4
+,38,No,Non-Travel,Human Resources,Bachelor's Degree,1,1805,Male,Human Resources,2,Divorced,2592,7129,5,No,3
+,28,No,Non-Travel,Human Resources,Associates Degree,1,1858,Male,Human Resources,4,Divorced,2706,10494,1,No,3
+,35,No,Non-Travel,Research & Development,Associates Degree,1,1804,Male,Manufacturing Director,4,Divorced,5762,24442,2,No,3
+,33,No,Non-Travel,Research & Development,Associates Degree,1,1994,Male,Laboratory Technician,3,Divorced,2008,20439,1,No,3
+,30,No,Non-Travel,Research & Development,Bachelor's Degree,1,1482,Male,Research Scientist,3,Divorced,1274,7152,1,No,3
+,40,No,Non-Travel,Research & Development,Master's Degree,1,1449,Male,Laboratory Technician,3,Divorced,3975,23099,3,No,3
+,40,No,Non-Travel,Research & Development,High School,1,1468,Male,Research Director,2,Divorced,13757,25178,2,No,3
+,33,No,Non-Travel,Research & Development,Bachelor's Degree,1,1771,Male,Research Scientist,2,Divorced,3055,6194,5,No,3
+,52,No,Non-Travel,Sales,Master's Degree,1,2019,Male,Sales Representative,4,Divorced,3482,19788,2,No,3
+,41,No,Non-Travel,Human Resources,Bachelor's Degree,1,1722,Male,Human Resources,2,Married,6430,20794,6,No,3
+,47,No,Non-Travel,Research & Development,Master's Degree,1,1934,Male,Research Scientist,2,Married,5467,2125,8,No,3
+,32,No,Non-Travel,Research & Development,Master's Degree,1,1574,Male,Research Scientist,1,Married,4087,25174,4,No,3
+,45,No,Non-Travel,Sales,Bachelor's Degree,1,1612,Male,Sales Executive,1,Married,4385,24162,1,No,3
+,47,No,Non-Travel,Sales,Master's Degree,1,1731,Male,Sales Executive,2,Married,4978,3536,7,No,3
+,43,No,Non-Travel,Research & Development,Bachelor's Degree,1,1813,Male,Research Scientist,3,Single,2438,24978,4,No,3
+,31,No,Non-Travel,Research & Development,Bachelor's Degree,1,2057,Male,Manufacturing Director,1,Single,9936,3787,0,No,3
+,32,No,Non-Travel,Research & Development,Master's Degree,1,1764,Male,Research Scientist,2,Single,2718,17674,2,No,3
+,37,No,Non-Travel,Research & Development,Associates Degree,1,1440,Male,Laboratory Technician,3,Single,3500,25470,0,No,3
+,28,No,Non-Travel,Research & Development,Bachelor's Degree,1,1947,Male,Research Scientist,3,Single,2144,2122,1,No,3
+,44,No,Non-Travel,Research & Development,Bachelor's Degree,1,1471,Male,Laboratory Technician,3,Single,3162,7973,3,No,3
+,39,No,Non-Travel,Research & Development,Bachelor's Degree,1,2022,Male,Manager,4,Single,19431,15302,2,No,3
+,42,No,Non-Travel,Research & Development,Associates Degree,1,1976,Male,Research Scientist,3,Single,4332,14811,1,No,3
+,46,No,Non-Travel,Sales,Associates Degree,1,1801,Male,Sales Executive,2,Single,7991,25166,8,No,3
+,29,No,Travel_Frequently,Research & Development,High School,1,1590,Male,Healthcare Representative,4,Divorced,8853,24483,1,No,3
+,34,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1485,Male,Research Director,1,Divorced,17007,11929,7,No,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,1615,Male,Manufacturing Director,4,Divorced,4724,17000,1,No,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,1431,Male,Research Scientist,1,Divorced,2996,20284,5,No,3
+,25,No,Travel_Frequently,Research & Development,High School,1,1653,Male,Manufacturing Director,3,Divorced,5206,4973,1,No,3
+,39,No,Travel_Frequently,Sales,Bachelor's Degree,1,1812,Male,Sales Executive,4,Divorced,4127,19188,2,No,3
+,37,No,Travel_Frequently,Sales,Master's Degree,1,1700,Male,Sales Executive,4,Divorced,9525,7677,1,No,3
+,24,No,Travel_Frequently,Human Resources,Bachelor's Degree,1,1746,Male,Human Resources,4,Married,2145,2097,0,No,3
+,38,No,Travel_Frequently,Human Resources,Master's Degree,1,1563,Male,Human Resources,3,Married,6077,14814,3,No,3
+,32,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1720,Male,Research Scientist,3,Married,3433,17360,6,No,3
+,38,No,Travel_Frequently,Research & Development,Master's Degree,1,1997,Male,Manufacturing Director,3,Married,5321,14284,2,No,3
+,49,No,Travel_Frequently,Research & Development,High School,1,1941,Male,Research Director,4,Married,19161,13738,3,No,3
+,26,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1918,Male,Laboratory Technician,4,Married,2544,7102,0,No,3
+,36,No,Travel_Frequently,Research & Development,Associates Degree,1,2061,Male,Laboratory Technician,4,Married,2571,12290,4,No,3
+,29,No,Travel_Frequently,Research & Development,High School,1,1852,Male,Laboratory Technician,4,Married,3812,7003,1,No,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,1597,Male,Healthcare Representative,3,Married,5063,15332,1,No,3
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1668,Male,Research Scientist,4,Married,4735,9867,7,No,3
+,49,No,Travel_Frequently,Sales,Bachelor's Degree,1,2065,Male,Sales Executive,2,Married,5390,13243,2,No,3
+,33,No,Travel_Frequently,Sales,Bachelor's Degree,1,1477,Male,Sales Executive,1,Married,4373,17456,0,No,3
+,45,No,Travel_Frequently,Research & Development,Master's Degree,1,1922,Male,Healthcare Representative,3,Single,5399,14511,4,No,3
+,35,No,Travel_Frequently,Research & Development,Associates Degree,1,1412,Male,Manufacturing Director,4,Single,9362,19944,2,No,3
+,27,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1648,Male,Research Scientist,4,Single,2580,6297,2,No,3
+,28,No,Travel_Frequently,Sales,Bachelor's Degree,1,1507,Male,Sales Executive,1,Single,4898,11827,0,No,3
+,32,No,Travel_Frequently,Sales,Master's Degree,1,1853,Male,Sales Executive,4,Single,4648,26075,8,No,3
+,31,No,Travel_Frequently,Sales,Master's Degree,1,1613,Male,Sales Executive,1,Single,5332,21602,7,No,3
+,37,No,Travel_Rarely,Human Resources,Associates Degree,1,1794,Male,Human Resources,2,Divorced,4071,12832,2,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,1892,Male,Manager,1,Divorced,16823,18991,2,No,3
+,55,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1694,Male,Research Scientist,2,Divorced,3537,23737,5,No,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1506,Male,Research Scientist,3,Divorced,1563,12530,1,No,3
+,45,No,Travel_Rarely,Research & Development,Master's Degree,1,1553,Male,Healthcare Representative,2,Divorced,7441,20933,1,No,3
+,31,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1881,Male,Laboratory Technician,3,Divorced,4197,18624,1,No,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,1940,Male,Research Scientist,4,Divorced,4771,14293,2,No,3
+,55,No,Travel_Rarely,Research & Development,Master's Degree,1,1424,Male,Research Director,4,Divorced,14732,12414,2,No,3
+,24,No,Travel_Rarely,Research & Development,High School,1,1725,Male,Laboratory Technician,1,Divorced,3907,3622,1,No,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1474,Male,Research Scientist,3,Divorced,2345,8045,2,No,3
+,39,No,Travel_Rarely,Research & Development,Associates Degree,1,1627,Male,Laboratory Technician,3,Divorced,3069,10302,0,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,1484,Male,Healthcare Representative,2,Divorced,10466,20948,3,No,3
+,24,No,Travel_Rarely,Research & Development,Associates Degree,1,1551,Male,Laboratory Technician,1,Divorced,2296,10036,0,No,3
+,46,No,Travel_Rarely,Research & Development,Associates Degree,1,1857,Male,Manufacturing Director,4,Divorced,8578,19989,3,No,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1599,Male,Laboratory Technician,2,Divorced,4876,5855,5,No,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1619,Male,Laboratory Technician,1,Divorced,4066,16290,1,No,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1671,Male,Research Scientist,2,Divorced,5470,25518,0,No,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1859,Male,Healthcare Representative,3,Divorced,6384,21143,8,No,3
+,39,No,Travel_Rarely,Research & Development,Master's Degree,1,1871,Male,Research Scientist,4,Divorced,3902,5141,8,No,3
+,31,No,Travel_Rarely,Sales,Associates Degree,1,1453,Male,Sales Executive,4,Divorced,10793,8386,1,No,3
+,30,No,Travel_Rarely,Sales,Associates Degree,1,1754,Male,Sales Executive,1,Divorced,7140,3088,2,No,3
+,41,No,Travel_Rarely,Sales,Bachelor's Degree,1,2037,Male,Sales Executive,2,Divorced,8938,12227,2,No,3
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,1497,Male,Sales Executive,3,Divorced,8620,23757,1,No,3
+,48,No,Travel_Rarely,Sales,Bachelor's Degree,1,1466,Male,Sales Executive,1,Divorced,5486,24795,4,No,3
+,34,No,Travel_Rarely,Sales,Master's Degree,1,1951,Male,Sales Executive,3,Divorced,8628,22914,1,No,3
+,33,No,Travel_Rarely,Sales,Master's Degree,1,1670,Male,Sales Executive,4,Divorced,5505,3921,1,No,3
+,29,No,Travel_Rarely,Human Resources,High School,1,1865,Male,Human Resources,2,Married,2804,15434,1,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2031,Male,Manager,3,Married,18880,17312,5,No,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1543,Male,Research Scientist,4,Married,4285,3031,1,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1954,Male,Healthcare Representative,1,Married,5373,6225,0,No,3
+,49,No,Travel_Rarely,Research & Development,Master's Degree,1,1473,Male,Healthcare Representative,3,Married,6651,21534,2,No,3
+,43,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1971,Male,Healthcare Representative,3,Married,7510,16873,1,No,3
+,25,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1415,Male,Laboratory Technician,4,Married,3229,4910,4,No,3
+,47,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1438,Male,Research Scientist,4,Married,3420,10205,7,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1682,Male,Healthcare Representative,3,Married,5347,7419,6,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,2012,Male,Laboratory Technician,4,Married,2406,4060,8,No,3
+,34,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2068,Male,Laboratory Technician,3,Married,4404,10228,2,No,3
+,27,No,Travel_Rarely,Research & Development,High School,1,1434,Male,Laboratory Technician,1,Married,2099,7679,0,No,3
+,53,No,Travel_Rarely,Research & Development,Master's Degree,1,1689,Male,Healthcare Representative,4,Married,7005,3458,3,No,3
+,35,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1621,Male,Research Scientist,1,Married,5208,26312,1,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,1826,Male,Laboratory Technician,3,Married,2705,9696,0,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1609,Male,Research Scientist,2,Married,2141,5348,1,No,3
+,30,No,Travel_Rarely,Research & Development,High School,1,1729,Male,Research Scientist,4,Married,2862,3811,1,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,1580,Male,Research Scientist,4,Married,5484,13008,9,No,3
+,34,No,Travel_Rarely,Research & Development,Associates Degree,1,1696,Male,Laboratory Technician,4,Married,3986,11912,1,No,3
+,27,No,Travel_Rarely,Research & Development,Master's Degree,1,1931,Male,Research Scientist,2,Married,2226,6073,1,No,3
+,31,No,Travel_Rarely,Research & Development,Master's Degree,1,1721,Male,Laboratory Technician,3,Married,3477,18103,1,No,3
+,44,No,Travel_Rarely,Research & Development,Master's Degree,1,1903,Male,Healthcare Representative,1,Married,5033,9364,2,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1803,Male,Healthcare Representative,1,Married,5538,5696,5,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1596,Male,Laboratory Technician,3,Married,3407,25348,1,No,3
+,39,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1618,Male,Manufacturing Director,1,Married,5377,3835,2,No,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1698,Male,Laboratory Technician,2,Married,2028,13637,1,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1542,Male,Laboratory Technician,2,Married,4841,24052,4,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1911,Male,Research Director,1,Married,13348,14842,9,No,3
+,28,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1799,Male,Research Scientist,4,Married,2044,5531,1,No,3
+,30,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1763,Male,Healthcare Representative,3,Married,5294,9128,3,No,3
+,35,No,Travel_Rarely,Research & Development,Associates Degree,1,1601,Male,Laboratory Technician,4,Married,2690,7713,1,No,3
+,24,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1707,Male,Research Scientist,3,Married,4401,17616,1,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1558,Male,Research Scientist,3,Married,2451,22376,6,No,3
+,28,No,Travel_Rarely,Research & Development,High School,1,1514,Male,Manufacturing Director,2,Married,6549,3173,1,No,3
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1631,Male,Manufacturing Director,3,Married,5768,26493,3,No,3
+,55,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1770,Male,Research Director,1,Married,19038,19805,8,No,3
+,30,No,Travel_Rarely,Research & Development,Associates Degree,1,1989,Male,Laboratory Technician,2,Married,3748,4077,1,No,3
+,48,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1867,Male,Research Director,2,Married,19665,13583,4,No,3
+,39,No,Travel_Rarely,Research & Development,High School,1,2062,Male,Healthcare Representative,1,Married,9991,21457,4,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,1728,Male,Manufacturing Director,3,Married,6883,5151,2,No,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,1798,Male,Research Scientist,1,Married,3143,6076,6,No,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1523,Male,Research Director,1,Married,16328,22074,3,No,3
+,23,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1592,Male,Research Scientist,3,Married,2073,12826,2,No,3
+,26,No,Travel_Rarely,Research & Development,Master's Degree,1,1718,Male,Laboratory Technician,3,Married,2305,6217,1,No,3
+,40,No,Travel_Rarely,Sales,Associates Degree,1,1548,Male,Sales Executive,1,Married,5473,19345,0,No,3
+,31,No,Travel_Rarely,Sales,Associates Degree,1,1996,Male,Sales Representative,3,Married,3067,6393,0,No,3
+,31,No,Travel_Rarely,Sales,Bachelor's Degree,1,1749,Male,Sales Executive,3,Married,8346,20943,1,No,3
+,33,No,Travel_Rarely,Sales,Master's Degree,1,1560,Male,Sales Executive,1,Married,6392,10589,2,No,3
+,32,No,Travel_Rarely,Sales,Master's Degree,1,2013,Male,Sales Representative,2,Married,2269,18024,0,No,3
+,35,No,Travel_Rarely,Sales,Master's Degree,1,1945,Male,Sales Executive,1,Married,5561,15975,0,No,3
+,37,No,Travel_Rarely,Sales,Associates Degree,1,1787,Male,Sales Executive,2,Married,4189,8800,1,No,3
+,30,No,Travel_Rarely,Sales,Master's Degree,1,1568,Male,Sales Executive,2,Married,9250,17799,3,No,3
+,38,No,Travel_Rarely,Sales,Bachelor's Degree,1,1582,Male,Sales Executive,2,Married,9924,12355,0,No,3
+,36,No,Travel_Rarely,Sales,Associates Degree,1,1908,Male,Sales Executive,2,Married,5507,16822,2,No,3
+,35,No,Travel_Rarely,Sales,High School,1,1492,Male,Sales Representative,3,Married,2404,16192,1,No,3
+,39,No,Travel_Rarely,Sales,Bachelor's Degree,1,1588,Male,Sales Executive,3,Married,8237,4658,2,No,3
+,32,No,Travel_Rarely,Sales,Bachelor's Degree,1,1739,Male,Sales Executive,3,Married,9610,3840,3,No,3
+,32,No,Travel_Rarely,Sales,Doctoral Degree,1,1446,Male,Sales Executive,4,Married,9204,23343,4,No,3
+,38,No,Travel_Rarely,Sales,Master's Degree,1,1995,Male,Sales Executive,2,Married,4440,7636,0,No,3
+,30,No,Travel_Rarely,Sales,High School,1,1479,Male,Sales Executive,3,Married,5301,2939,8,No,3
+,29,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1419,Male,Human Resources,1,Single,7988,9769,1,No,3
+,43,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1778,Male,Human Resources,4,Single,3539,5033,0,No,3
+,39,No,Travel_Rarely,Research & Development,High School,1,2014,Male,Research Scientist,4,Single,4108,5340,7,No,3
+,23,No,Travel_Rarely,Research & Development,High School,1,1533,Male,Laboratory Technician,3,Single,2272,24812,0,No,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1435,Male,Laboratory Technician,4,Single,5810,22604,1,No,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1659,Male,Laboratory Technician,2,Single,2013,10950,2,No,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,1577,Male,Research Scientist,4,Single,2972,22061,1,No,3
+,41,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1814,Male,Healthcare Representative,2,Single,6870,15530,3,No,3
+,24,No,Travel_Rarely,Research & Development,Associates Degree,1,1981,Male,Healthcare Representative,3,Single,4617,14120,1,No,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,2008,Male,Research Scientist,3,Single,5098,18698,1,No,3
+,49,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1677,Male,Manager,3,Single,15379,22384,4,No,3
+,21,No,Travel_Rarely,Research & Development,High School,1,1623,Male,Research Scientist,4,Single,3117,26009,1,No,3
+,40,No,Travel_Rarely,Research & Development,Master's Degree,1,2048,Male,Research Scientist,3,Single,2809,2725,2,No,3
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1952,Male,Laboratory Technician,1,Single,2867,20006,0,No,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,1727,Male,Healthcare Representative,2,Single,5562,9697,6,No,3
+,26,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1417,Male,Laboratory Technician,1,Single,3578,23577,0,No,3
+,35,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1564,Male,Laboratory Technician,1,Single,2450,21731,1,No,3
+,29,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1883,Male,Laboratory Technician,1,Single,2062,19384,3,No,3
+,53,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1472,Male,Research Director,2,Single,16598,19764,4,No,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1475,Male,Research Scientist,2,Single,3420,21158,1,No,3
+,23,No,Travel_Rarely,Research & Development,Associates Degree,1,1982,Male,Laboratory Technician,4,Single,2647,13672,1,No,3
+,33,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1545,Male,Manufacturing Director,2,Single,4320,24152,1,No,3
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2038,Male,Research Scientist,1,Single,2439,11288,1,No,3
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1860,Male,Laboratory Technician,3,Single,3968,13624,4,No,3
+,22,No,Travel_Rarely,Research & Development,Associates Degree,1,2007,Male,Research Scientist,3,Single,3375,17624,0,No,3
+,38,No,Travel_Rarely,Sales,Bachelor's Degree,1,1961,Male,Sales Representative,1,Single,2858,11473,4,No,3
+,39,No,Travel_Rarely,Sales,Master's Degree,1,1975,Male,Sales Executive,1,Single,13341,25098,0,No,3
+,40,No,Travel_Rarely,Sales,Master's Degree,1,1740,Male,Manager,2,Single,19833,4349,1,No,3
+,33,No,Travel_Rarely,Sales,Master's Degree,1,1924,Male,Sales Executive,3,Single,5487,10410,1,No,3
+,26,No,Travel_Rarely,Sales,Bachelor's Degree,1,1836,Male,Sales Executive,4,Single,4684,9125,1,No,3
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,1650,Male,Sales Executive,3,Single,5869,23413,9,No,3
+,20,No,Travel_Rarely,Sales,High School,1,1680,Male,Sales Representative,1,Single,2728,21082,1,No,3
+,27,No,Travel_Rarely,Sales,Bachelor's Degree,1,1965,Male,Sales Executive,4,Single,4105,5099,1,No,3
+,41,No,Travel_Rarely,Sales,Bachelor's Degree,1,1708,Male,Sales Executive,3,Single,9241,15869,1,No,3
+,46,No,Travel_Rarely,Sales,Master's Degree,1,1602,Male,Manager,1,Single,17567,3156,1,No,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,1478,Male,Sales Executive,1,Single,4759,15891,3,No,3
+,28,No,Travel_Rarely,Sales,Bachelor's Degree,1,1469,Male,Sales Executive,1,Single,8463,23490,0,No,3
+,56,No,Non-Travel,Research & Development,Master's Degree,1,2026,Male,Healthcare Representative,3,Divorced,6306,26236,1,No,4
+,58,No,Non-Travel,Sales,Bachelor's Degree,1,1824,Male,Manager,2,Divorced,16291,22577,4,No,4
+,36,No,Non-Travel,Sales,Master's Degree,1,2036,Male,Sales Executive,4,Divorced,5406,10436,1,No,4
+,36,No,Non-Travel,Research & Development,Master's Degree,1,1949,Male,Laboratory Technician,2,Married,2810,9238,1,No,4
+,45,No,Non-Travel,Research & Development,High School,1,1712,Male,Healthcare Representative,3,Married,10748,3395,3,No,4
+,42,No,Non-Travel,Research & Development,Master's Degree,1,1854,Male,Research Scientist,3,Married,2936,6161,3,No,4
+,26,No,Non-Travel,Research & Development,Bachelor's Degree,1,1693,Male,Laboratory Technician,4,Single,2570,11925,1,No,4
+,33,No,Travel_Frequently,Research & Development,Associates Degree,1,1970,Male,Healthcare Representative,3,Divorced,5968,18079,1,No,4
+,48,No,Travel_Frequently,Research & Development,Doctoral Degree,1,1644,Male,Manager,4,Married,15202,5602,2,No,4
+,31,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1956,Male,Research Scientist,1,Married,5003,5771,1,No,4
+,43,No,Travel_Frequently,Sales,Master's Degree,1,1849,Male,Sales Executive,4,Married,5675,19246,1,No,4
+,36,No,Travel_Frequently,Human Resources,High School,1,1890,Male,Human Resources,4,Single,3886,4223,1,No,4
+,30,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1499,Male,Human Resources,3,Divorced,2064,15428,0,No,4
+,42,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1768,Male,Laboratory Technician,2,Divorced,2766,8952,8,No,4
+,60,No,Travel_Rarely,Research & Development,Master's Degree,1,1697,Male,Healthcare Representative,4,Divorced,10883,20467,3,No,4
+,41,No,Travel_Rarely,Research & Development,Master's Degree,1,1772,Male,Laboratory Technician,1,Divorced,2289,20520,1,No,4
+,36,No,Travel_Rarely,Research & Development,Associates Degree,1,1664,Male,Healthcare Representative,1,Divorced,6842,26308,6,No,4
+,39,No,Travel_Rarely,Research & Development,Associates Degree,1,1936,Male,Manufacturing Director,1,Married,5151,12315,1,No,4
+,57,No,Travel_Rarely,Research & Development,Associates Degree,1,1483,Male,Research Scientist,3,Married,4900,2721,0,No,4
+,55,No,Travel_Rarely,Research & Development,Master's Degree,1,1873,Male,Research Scientist,4,Married,2662,7975,8,No,4
+,43,No,Travel_Rarely,Research & Development,Associates Degree,1,1666,Male,Research Director,3,Married,17603,3525,1,No,4
+,39,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1654,Male,Manufacturing Director,2,Married,5295,7693,4,No,4
+,41,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1999,Male,Research Scientist,4,Married,2782,21412,3,No,4
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1546,Male,Research Scientist,4,Married,2132,4585,4,No,4
+,34,No,Travel_Rarely,Sales,Associates Degree,1,1823,Male,Sales Executive,3,Married,6799,22128,1,No,4
+,55,No,Travel_Rarely,Sales,Doctoral Degree,1,1578,Male,Manager,4,Married,19586,23037,1,No,4
+,47,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1993,Male,Healthcare Representative,3,Single,8633,13084,2,No,4
+,32,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1516,Male,Manager,4,Single,11244,21072,2,No,4
+,39,No,Travel_Rarely,Research & Development,High School,1,1800,Male,Research Director,3,Single,13464,7914,7,No,4
+,32,No,Travel_Rarely,Research & Development,Master's Degree,1,1966,Male,Manufacturing Director,4,Single,9679,10138,8,No,4
+,42,No,Travel_Rarely,Research & Development,Associates Degree,1,1595,Male,Manager,4,Single,19613,26362,8,No,4
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,1950,Male,Sales Executive,4,Single,9888,6770,1,No,4
+01-09-2022 00:00,30,Yes,Travel_Frequently,Human Resources,Bachelor's Degree,1,1747,Female,Human Resources,4,Divorced,2180,9732,6,No,3
+6/13/2021 12:00:00 AM,27,Yes,Travel_Frequently,Human Resources,Bachelor's Degree,1,1944,Female,Human Resources,2,Married,2863,19555,1,No,3
+4/26/2022 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Doctoral Degree,1,1459,Female,Manufacturing Director,2,Single,7446,8931,1,No,3
+3/31/2022 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1537,Female,Research Scientist,3,Single,4084,4156,1,No,3
+10/13/2021 12:00:00 AM,29,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1487,Female,Sales Executive,2,Single,5765,17485,5,No,3
+4/26/2022 12:00:00 AM,31,Yes,Travel_Frequently,Sales,Master's Degree,1,1427,Female,Sales Representative,3,Single,1359,16154,1,No,3
+12/20/2021 12:00:00 AM,34,Yes,Travel_Rarely,Human Resources,Master's Degree,1,1467,Female,Human Resources,3,Married,2742,3072,1,No,3
+04-11-2022 00:00,53,Yes,Travel_Rarely,Research & Development,Doctoral Degree,1,1572,Female,Manufacturing Director,4,Married,10169,14618,0,No,3
+1/29/2022 12:00:00 AM,31,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1433,Female,Research Scientist,2,Single,1261,22262,1,No,3
+2/21/2022 12:00:00 AM,29,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1752,Female,Sales Representative,2,Single,2760,14630,1,No,3
+12/17/2021 12:00:00 AM,46,Yes,Travel_Rarely,Research & Development,Associates Degree,1,1821,Female,Healthcare Representative,2,Married,8926,10842,4,No,4
+01-03-2022 00:00,46,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1869,Female,Sales Executive,2,Married,7314,14011,5,No,4
+4/26/2022 12:00:00 AM,50,Yes,Travel_Frequently,Sales,Master's Degree,1,2044,Male,Sales Executive,3,Divorced,6728,14255,7,No,3
+01-12-2022 00:00,34,Yes,Travel_Frequently,Research & Development,Master's Degree,1,1807,Male,Laboratory Technician,1,Married,5346,6208,4,No,3
+4/23/2022 12:00:00 AM,28,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1486,Male,Sales Representative,3,Married,2909,15747,3,No,3
+01-12-2022 00:00,47,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1716,Male,Sales Executive,3,Married,12936,24164,7,No,3
+2/17/2022 12:00:00 AM,23,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,2023,Male,Sales Representative,1,Married,1790,26956,1,No,3
+4/25/2022 12:00:00 AM,28,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1504,Male,Laboratory Technician,1,Single,2561,5355,7,No,3
+11-07-2021 00:00,29,Yes,Travel_Frequently,Sales,Bachelor's Degree,1,1928,Male,Sales Representative,1,Single,1091,10642,1,No,3
+8/14/2021 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1960,Male,Laboratory Technician,4,Divorced,2367,18779,5,No,3
+2/21/2022 12:00:00 AM,46,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1457,Male,Sales Executive,4,Divorced,10096,15986,4,No,3
+8/16/2021 12:00:00 AM,31,Yes,Travel_Rarely,Human Resources,Doctoral Degree,1,1842,Male,Human Resources,1,Married,2956,21495,0,No,3
+6/17/2021 12:00:00 AM,24,Yes,Travel_Rarely,Human Resources,High School,1,1714,Male,Human Resources,3,Married,1555,11585,1,No,3
+4/29/2022 12:00:00 AM,38,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1573,Male,Manufacturing Director,2,Married,4855,7653,4,No,3
+1/21/2022 12:00:00 AM,56,Yes,Travel_Rarely,Research & Development,Associates Degree,1,2032,Male,Laboratory Technician,3,Married,2339,3666,8,No,3
+1/16/2022 12:00:00 AM,25,Yes,Travel_Rarely,Sales,Associates Degree,1,1439,Male,Sales Representative,1,Married,4400,15182,3,No,3
+12/20/2021 12:00:00 AM,31,Yes,Travel_Rarely,Sales,Master's Degree,1,1761,Male,Sales Executive,3,Married,8161,19002,2,No,3
+4/30/2022 12:00:00 AM,30,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1562,Male,Sales Executive,1,Married,9714,5323,1,No,3
+03-04-2022 00:00,35,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1639,Male,Sales Executive,1,Married,10306,21530,9,No,3
+4/27/2022 12:00:00 AM,29,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1522,Male,Research Scientist,1,Single,2362,7568,6,No,3
+07-05-2021 00:00,56,Yes,Travel_Rarely,Research & Development,Associates Degree,1,1907,Male,Laboratory Technician,4,Single,2587,10261,1,No,3
+4/17/2022 12:00:00 AM,32,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1692,Male,Laboratory Technician,2,Single,1393,24852,1,No,3
+1/16/2022 12:00:00 AM,40,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1534,Male,Laboratory Technician,1,Single,2018,21831,3,No,3
+03-04-2022 00:00,37,Yes,Travel_Rarely,Research & Development,Master's Degree,1,1809,Male,Manufacturing Director,1,Single,4213,4992,1,No,3
+4/30/2022 12:00:00 AM,32,Yes,Travel_Rarely,Sales,Associates Degree,1,1734,Male,Sales Executive,2,Single,6735,12147,6,No,3
+03-11-2022 00:00,21,Yes,Travel_Rarely,Sales,High School,1,1780,Male,Sales Representative,2,Single,2679,4567,1,No,3
+03-11-2022 00:00,30,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1876,Male,Sales Representative,4,Single,1081,16019,1,No,3
+11/17/2021 12:00:00 AM,49,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1420,Male,Laboratory Technician,1,Single,4284,22710,3,No,4
+,22,No,Non-Travel,Research & Development,Associates Degree,1,1605,Female,Research Scientist,3,Married,2814,10293,1,Yes,3
+,38,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1937,Female,Research Scientist,2,Divorced,2133,18115,1,Yes,3
+,24,No,Travel_Frequently,Research & Development,High School,1,1646,Female,Research Scientist,4,Single,3760,17218,1,Yes,3
+,27,No,Travel_Frequently,Research & Development,Associates Degree,1,1850,Female,Laboratory Technician,4,Single,2379,19826,0,Yes,3
+,44,No,Travel_Rarely,Human Resources,Bachelor's Degree,1,1683,Female,Human Resources,4,Divorced,3195,4167,4,Yes,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1608,Female,Research Director,4,Divorced,19049,3549,0,Yes,3
+,47,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1827,Female,Manufacturing Director,2,Divorced,10333,19271,8,Yes,3
+,49,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1674,Female,Laboratory Technician,1,Divorced,2587,24941,4,Yes,3
+,31,No,Travel_Rarely,Research & Development,High School,1,1974,Female,Laboratory Technician,4,Divorced,1129,17536,1,Yes,3
+,41,No,Travel_Rarely,Sales,High School,1,1815,Female,Sales Executive,3,Divorced,10447,26458,0,Yes,3
+,31,No,Travel_Rarely,Sales,Associates Degree,1,1912,Female,Sales Executive,4,Divorced,6583,20115,2,Yes,3
+,33,No,Travel_Rarely,Research & Development,Associates Degree,1,2009,Female,Healthcare Representative,4,Married,4878,21653,0,Yes,3
+,40,No,Travel_Rarely,Research & Development,Associates Degree,1,1724,Female,Manufacturing Director,1,Married,6516,5041,2,Yes,3
+,26,No,Travel_Rarely,Research & Development,Associates Degree,1,1893,Female,Research Scientist,3,Married,2933,14908,1,Yes,3
+,49,No,Travel_Rarely,Research & Development,High School,1,1661,Female,Healthcare Representative,3,Married,13966,11652,2,Yes,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1703,Female,Healthcare Representative,4,Married,7879,14810,1,Yes,3
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1614,Female,Manufacturing Director,3,Married,4663,12421,9,Yes,3
+,35,No,Travel_Rarely,Research & Development,Associates Degree,1,1886,Female,Manufacturing Director,2,Married,4788,25388,0,Yes,3
+,38,No,Travel_Rarely,Research & Development,Associates Degree,1,1638,Female,Manufacturing Director,3,Married,7756,14199,3,Yes,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1880,Female,Sales Executive,3,Married,5673,6060,1,Yes,3
+,35,No,Travel_Rarely,Sales,Master's Degree,1,1962,Female,Sales Executive,4,Married,5204,13586,1,Yes,3
+,47,No,Travel_Rarely,Sales,Bachelor's Degree,1,1503,Female,Sales Executive,3,Married,4591,24200,3,Yes,3
+,34,No,Travel_Rarely,Sales,High School,1,1915,Female,Sales Executive,4,Married,8103,16495,3,Yes,3
+,58,No,Travel_Rarely,Sales,Bachelor's Degree,1,1938,Female,Manager,4,Married,17875,11761,4,Yes,3
+,24,No,Travel_Rarely,Sales,High School,1,1445,Female,Sales Executive,3,Married,4162,15211,1,Yes,3
+,35,No,Travel_Rarely,Human Resources,Master's Degree,1,2040,Female,Human Resources,4,Single,8837,16642,1,Yes,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,1587,Female,Healthcare Representative,3,Single,6142,4223,3,Yes,3
+,45,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1611,Female,Laboratory Technician,1,Single,5769,23447,1,Yes,3
+,54,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1980,Female,Manufacturing Director,1,Single,4440,25198,6,Yes,3
+,40,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1641,Female,Manufacturing Director,4,Single,7945,19948,6,Yes,3
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1425,Female,Sales Executive,2,Single,9278,20763,3,Yes,3
+,33,No,Non-Travel,Sales,Bachelor's Degree,1,1681,Female,Sales Executive,4,Divorced,5368,16130,1,Yes,4
+,53,No,Non-Travel,Research & Development,Master's Degree,1,1775,Female,Manufacturing Director,3,Married,12965,22308,4,Yes,4
+,25,No,Travel_Rarely,Sales,Associates Degree,1,2018,Female,Sales Executive,3,Divorced,4907,13684,0,Yes,4
+,37,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2017,Female,Research Director,4,Married,13744,15471,1,Yes,4
+,58,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1423,Female,Research Director,1,Married,19701,22456,3,Yes,4
+,36,No,Travel_Rarely,Research & Development,Master's Degree,1,1847,Female,Research Scientist,2,Married,6962,19573,4,Yes,4
+,38,No,Travel_Rarely,Sales,Master's Degree,1,1835,Female,Sales Representative,4,Married,5405,4244,2,Yes,4
+,31,No,Non-Travel,Research & Development,Associates Degree,1,1948,Male,Research Scientist,1,Divorced,3065,3995,1,Yes,3
+,40,No,Non-Travel,Research & Development,Associates Degree,1,1552,Male,Healthcare Representative,4,Divorced,4069,8841,3,Yes,3
+,34,No,Non-Travel,Sales,Bachelor's Degree,1,1774,Male,Sales Executive,3,Divorced,4001,12313,1,Yes,3
+,39,No,Non-Travel,Research & Development,Bachelor's Degree,1,1737,Male,Laboratory Technician,4,Married,6472,8989,1,Yes,3
+,44,No,Travel_Frequently,Human Resources,Doctoral Degree,1,1642,Male,Human Resources,4,Married,5743,10503,4,Yes,3
+,38,No,Travel_Frequently,Human Resources,Master's Degree,1,1972,Male,Human Resources,2,Married,2991,5224,0,Yes,3
+,58,No,Travel_Frequently,Research & Development,Master's Degree,1,1837,Male,Research Director,3,Married,15787,21624,2,Yes,3
+,36,No,Travel_Frequently,Research & Development,Master's Degree,1,1594,Male,Laboratory Technician,1,Married,5562,19711,3,Yes,3
+,50,No,Travel_Frequently,Research & Development,Doctoral Degree,1,1606,Male,Healthcare Representative,3,Married,11245,20689,2,Yes,3
+,34,No,Travel_Frequently,Research & Development,Master's Degree,1,1932,Male,Research Scientist,4,Married,5747,26496,1,Yes,3
+,35,No,Travel_Frequently,Research & Development,Master's Degree,1,2049,Male,Healthcare Representative,3,Married,5689,24594,1,Yes,3
+,42,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1547,Male,Healthcare Representative,4,Married,10124,18611,2,Yes,3
+,28,No,Travel_Frequently,Sales,Associates Degree,1,1927,Male,Sales Executive,4,Married,6834,19255,1,Yes,3
+,35,No,Travel_Frequently,Research & Development,Master's Degree,1,1704,Male,Research Scientist,4,Single,4930,13970,0,Yes,3
+,44,No,Travel_Frequently,Research & Development,High School,1,1496,Male,Manufacturing Director,3,Single,10209,19719,5,Yes,3
+,50,No,Travel_Frequently,Research & Development,Doctoral Degree,1,1539,Male,Research Director,4,Single,14411,24450,1,Yes,3
+,29,No,Travel_Frequently,Research & Development,Bachelor's Degree,1,1753,Male,Healthcare Representative,3,Single,6294,23060,8,Yes,3
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1460,Male,Healthcare Representative,1,Divorced,10851,19863,2,Yes,3
+,46,No,Travel_Rarely,Research & Development,Master's Degree,1,1789,Male,Research Director,4,Divorced,19328,14218,7,Yes,3
+,42,No,Travel_Rarely,Research & Development,Master's Degree,1,1998,Male,Research Scientist,1,Divorced,5410,11189,6,Yes,3
+,25,No,Travel_Rarely,Research & Development,High School,1,1992,Male,Laboratory Technician,3,Divorced,3977,7298,6,Yes,3
+,29,No,Travel_Rarely,Sales,Bachelor's Degree,1,1669,Male,Sales Executive,2,Divorced,4187,3356,1,Yes,3
+,42,No,Travel_Rarely,Sales,Master's Degree,1,1943,Male,Sales Executive,4,Divorced,5087,2900,3,Yes,3
+,46,No,Travel_Rarely,Sales,Bachelor's Degree,1,1732,Male,Sales Executive,4,Divorced,10368,5596,4,Yes,3
+,55,No,Travel_Rarely,Human Resources,Master's Degree,1,1973,Male,Manager,2,Married,19636,25811,4,Yes,3
+,41,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1448,Male,Research Scientist,3,Married,2127,5561,2,Yes,3
+,33,No,Travel_Rarely,Research & Development,Master's Degree,1,1549,Male,Laboratory Technician,3,Married,5207,22949,1,Yes,3
+,38,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1766,Male,Healthcare Representative,4,Married,5811,24539,3,Yes,3
+,45,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1465,Male,Manufacturing Director,4,Married,9380,14720,4,Yes,3
+,55,No,Travel_Rarely,Research & Development,Master's Degree,1,1501,Male,Healthcare Representative,3,Married,4035,16143,0,Yes,3
+,29,No,Travel_Rarely,Research & Development,Associates Degree,1,2053,Male,Laboratory Technician,2,Married,4025,23679,4,Yes,3
+,35,No,Travel_Rarely,Research & Development,Master's Degree,1,2003,Male,Laboratory Technician,3,Married,2660,20232,7,Yes,3
+,36,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,1790,Male,Healthcare Representative,1,Married,8321,25949,7,Yes,3
+,34,No,Travel_Rarely,Research & Development,Master's Degree,1,1755,Male,Research Scientist,4,Married,2932,5586,0,Yes,3
+,50,No,Travel_Rarely,Sales,Bachelor's Degree,1,1591,Male,Manager,3,Married,19331,19519,4,Yes,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,1882,Male,Sales Executive,4,Married,9713,24444,2,Yes,3
+,34,No,Travel_Rarely,Sales,Bachelor's Degree,1,1535,Male,Sales Executive,3,Married,7083,12288,1,Yes,3
+,43,No,Travel_Rarely,Sales,Bachelor's Degree,1,1706,Male,Sales Executive,4,Married,7847,6069,1,Yes,3
+,44,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2020,Male,Research Scientist,4,Single,2436,13422,6,Yes,3
+,29,No,Travel_Rarely,Research & Development,High School,1,1586,Male,Laboratory Technician,1,Single,4723,16213,1,Yes,3
+,33,No,Travel_Rarely,Research & Development,Doctoral Degree,1,1515,Male,Healthcare Representative,3,Single,6388,22049,2,Yes,3
+,21,No,Travel_Rarely,Sales,High School,1,2021,Male,Sales Representative,1,Single,2380,25479,1,Yes,3
+,41,No,Travel_Rarely,Sales,Associates Degree,1,1678,Male,Sales Executive,3,Single,7082,11591,3,Yes,3
+,27,No,Travel_Rarely,Research & Development,Bachelor's Degree,1,2064,Male,Manufacturing Director,2,Married,6142,5174,1,Yes,4
+,37,No,Travel_Rarely,Research & Development,Master's Degree,1,1885,Male,Research Scientist,1,Married,4284,13588,5,Yes,4
+,34,No,Travel_Rarely,Sales,Associates Degree,1,1541,Male,Sales Representative,3,Married,2308,4944,0,Yes,4
+,40,No,Travel_Rarely,Human Resources,Associates Degree,1,1550,Male,Manager,4,Single,16437,17381,1,Yes,4
+,36,No,Travel_Rarely,Sales,Master's Degree,1,1556,Male,Sales Representative,4,Single,2644,17001,3,Yes,4
+3/21/2022 12:00:00 AM,48,Yes,Travel_Frequently,Sales,Associates Degree,1,1691,Female,Sales Representative,3,Married,2655,11740,2,Yes,3
+03-05-2022 00:00,32,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1939,Female,Research Scientist,3,Single,2432,15318,3,Yes,3
+2/28/2022 12:00:00 AM,29,Yes,Travel_Frequently,Research & Development,High School,1,1421,Female,Healthcare Representative,4,Single,7553,22930,0,Yes,3
+4/18/2022 12:00:00 AM,18,Yes,Travel_Frequently,Sales,Associates Degree,1,1624,Female,Sales Representative,4,Single,1569,18420,1,Yes,3
+4/17/2022 12:00:00 AM,35,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1569,Female,Laboratory Technician,1,Divorced,2074,26619,1,Yes,3
+12/24/2021 12:00:00 AM,26,Yes,Travel_Rarely,Human Resources,Associates Degree,1,1818,Female,Human Resources,2,Married,2148,6889,0,Yes,3
+3/18/2022 12:00:00 AM,22,Yes,Travel_Rarely,Research & Development,High School,1,1783,Female,Laboratory Technician,1,Married,2398,15999,1,Yes,3
+1/16/2022 12:00:00 AM,28,Yes,Travel_Rarely,Sales,Associates Degree,1,1933,Female,Sales Executive,3,Single,9854,23352,3,Yes,3
+4/20/2022 12:00:00 AM,39,Yes,Non-Travel,Research & Development,Bachelor's Degree,1,1458,Female,Laboratory Technician,1,Single,3646,17181,2,Yes,4
+11/26/2021 12:00:00 AM,34,Yes,Travel_Rarely,Sales,Master's Degree,1,1489,Female,Sales Executive,2,Single,4599,7815,0,Yes,4
+10/17/2021 12:00:00 AM,33,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1758,Female,Sales Executive,1,Single,8564,10092,2,Yes,4
+05-02-2022 00:00,44,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1792,Male,Research Scientist,2,Divorced,2342,11092,1,Yes,3
+4/13/2022 12:00:00 AM,31,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1464,Male,Laboratory Technician,4,Married,3722,21081,6,Yes,3
+08-10-2021 00:00,43,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1767,Male,Research Scientist,3,Married,2437,15587,9,Yes,3
+9/17/2021 12:00:00 AM,31,Yes,Travel_Frequently,Sales,Master's Degree,1,1967,Male,Sales Executive,4,Married,5617,21075,1,Yes,3
+03-07-2022 00:00,24,Yes,Travel_Frequently,Research & Development,Bachelor's Degree,1,1494,Male,Laboratory Technician,1,Single,3172,16998,2,Yes,3
+10/30/2021 12:00:00 AM,29,Yes,Travel_Rarely,Human Resources,Bachelor's Degree,1,1844,Male,Human Resources,1,Divorced,2335,3157,4,Yes,3
+1/28/2022 12:00:00 AM,35,Yes,Travel_Rarely,Sales,Associates Degree,1,1645,Male,Sales Executive,4,Divorced,5440,22098,6,Yes,3
+1/16/2022 12:00:00 AM,36,Yes,Travel_Rarely,Sales,Doctoral Degree,1,1733,Male,Sales Executive,1,Divorced,6134,8658,5,Yes,3
+09-03-2021 00:00,50,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,2055,Male,Sales Executive,1,Divorced,10854,16586,4,Yes,3
+05-06-2022 00:00,29,Yes,Travel_Rarely,Research & Development,Master's Degree,1,2027,Male,Research Scientist,4,Married,4787,26124,9,Yes,3
+11/26/2021 12:00:00 AM,28,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1604,Male,Laboratory Technician,2,Married,2408,7324,1,Yes,3
+02-11-2022 00:00,40,Yes,Travel_Rarely,Research & Development,Bachelor's Degree,1,1649,Male,Laboratory Technician,1,Single,2166,3339,3,Yes,3
+3/18/2022 12:00:00 AM,23,Yes,Travel_Rarely,Research & Development,High School,1,1684,Male,Laboratory Technician,3,Single,3989,20586,1,Yes,3
+07-05-2021 00:00,53,Yes,Travel_Rarely,Sales,Master's Degree,1,1968,Male,Sales Executive,1,Single,10448,5843,6,Yes,3
+4/25/2022 12:00:00 AM,32,Yes,Travel_Rarely,Sales,Master's Degree,1,1862,Male,Sales Executive,2,Single,9907,26186,7,Yes,3
+5/27/2021 12:00:00 AM,35,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1797,Male,Sales Executive,4,Single,5813,13492,1,Yes,3
+09-02-2021 00:00,34,Yes,Non-Travel,Research & Development,Master's Degree,1,1905,Male,Research Scientist,1,Married,2307,14460,1,Yes,4
+07-01-2021 00:00,29,Yes,Travel_Frequently,Research & Development,Associates Degree,1,1868,Male,Research Scientist,4,Single,2439,14753,1,Yes,4
+03-10-2022 00:00,35,Yes,Travel_Frequently,Sales,Master's Degree,1,1667,Male,Sales Executive,4,Single,4581,10414,3,Yes,4
+02-11-2022 00:00,23,Yes,Travel_Rarely,Sales,Bachelor's Degree,1,1702,Male,Sales Representative,4,Divorced,2275,25103,1,Yes,4
+02-11-2022 00:00,22,Yes,Travel_Rarely,Research & Development,High School,1,1878,Male,Research Scientist,2,Single,2472,26092,1,Yes,4
